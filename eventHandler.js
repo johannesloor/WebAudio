@@ -23,6 +23,7 @@ function touchAreaDown(event) {
 
 function playButtonClick(event) {
   webAudioXML.playSequence("_storedGesture");
+  touchAreaToggle();
   event.preventDefault();
 }
 
