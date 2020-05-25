@@ -4,26 +4,64 @@
 		<Mixer>
 			
 			<OscillatorNode type="sine">
-				<frequency follow="relY" map="100,0,130,65"></frequency>
+				<frequency follow="relY" map="0,95,146.83,36.71"></frequency>
 			</OscillatorNode>
 			<OscillatorNode type="sine">
-				<frequency follow="relY" map="100,0,196,98"></frequency>
+				<frequency follow="relY" map="0,95,182,73.42"></frequency>
+			</OscillatorNode>
+			<OscillatorNode type="sawtooth">
+				<frequency follow="relY" map="0,95,196.83,0"></frequency>
 			</OscillatorNode>
 		
 			<OscillatorNode type="sine">
-				<frequency follow="relX" map="0,100,130,523.25"></frequency>
+				<frequency follow="relX" map="0,95,150,146.83"></frequency>
 			</OscillatorNode>
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,150,146.83" delay="500"></frequency>
+			</OscillatorNode>
+
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,132,293.66"></frequency>
+			</OscillatorNode>
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,132,292.66" delay="300"></frequency>
+			</OscillatorNode>
+			<Mixer gain="0.6">
+				<OscillatorNode type="sawtooth">
+					<frequency follow="relX" map="0,95,161,293.66"></frequency>
+				</OscillatorNode>
+			</Mixer>
+			<Mixer gain="0.3">
+				<OscillatorNode type="sawtooth">
+					<frequency follow="relX" map="0,95,161,293.66" delay="300"></frequency>
+				</OscillatorNode>
+			</Mixer>
+
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,199,587.33"></frequency>
+			</OscillatorNode>
+
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,392,586.33"></frequency>
+			</OscillatorNode>
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,95,392,587.33" delay="500"></frequency>
+			</OscillatorNode>
+			
 		</Mixer>
-		<BiquadFilterNode type="lowpass">
-			<frequency follow="relY" map="100,0,500,5000,3"></frequency>
+		
+		<BiquadFilterNode type="lowpass" >
+			<frequency follow="relX" map="0,100,200,6000, 4"></frequency>
 		</BiquadFilterNode>
 		
-
+		
 		<GainNode>
 			<gain>
-				<Envelope adsr="100,100,50,20" trig="pointer" max="1"></Envelope>
+				<Envelope adsr="100,100,50,200" trig="pointer" max="1"></Envelope>
 			</gain>
 		</GainNode>
+
+		
 
 	</Chain>
 
