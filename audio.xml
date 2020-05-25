@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Audio version="1.0" timeUnit="ms" interactionArea="#touchArea" gain="-10dB">
 	<Chain portamento="50">
-
-		<OscillatorNode type="sawtooth">
-			<frequency follow="relX" map="0,100,100,1000"></frequency>
-		</OscillatorNode>
-
+		<Mixer>
+			
+			<OscillatorNode type="sine">
+				<frequency follow="relY" map="100,0,130,65"></frequency>
+			</OscillatorNode>
+			<OscillatorNode type="sine">
+				<frequency follow="relY" map="100,0,196,98"></frequency>
+			</OscillatorNode>
+		
+			<OscillatorNode type="sine">
+				<frequency follow="relX" map="0,100,130,523.25"></frequency>
+			</OscillatorNode>
+		</Mixer>
 		<BiquadFilterNode type="lowpass">
-			<frequency follow="relY" map="100,0,0,5000, 3"></frequency>
+			<frequency follow="relY" map="100,0,500,5000,3"></frequency>
 		</BiquadFilterNode>
+		
 
 		<GainNode>
 			<gain>
