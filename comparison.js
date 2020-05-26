@@ -1,6 +1,6 @@
-const timeMargin = 70; // Within this margin the time value is considered correct
+const timeMargin = 60; // Within this margin the time value is considered correct
 const positionMargin = 7.5; // Within this margin the coordinates is considered correct
-const ratioMargin = 0.32; // The percentage of data points that can be wrong
+const ratioMargin = 0.5; // The percentage of data points that can be wrong
 
 /**
  * A type that represents one data point from a sequence. Consists of a time value and a xy coordinate pair.
@@ -36,7 +36,8 @@ function compare(lastSequence, storedSequence) {
   console.log("Length ratio: " + lengthRatio);
 
   return (
-    inMargin(correctRatio, 1, ratioMargin) && inMargin(lengthRatio, 1, ratioMargin)
+    inMargin(correctRatio, 1, ratioMargin) &&
+    inMargin(lengthRatio, 1, ratioMargin)
   );
 }
 
@@ -56,9 +57,15 @@ function dataPointInSequence(dataPoint, sequence) {
  * @param {DataPoint} sequencePoint
  */
 function compareDataPoint(singlePoint, sequencePoint) {
-  return (inMargin(sequencePoint.time, singlePoint.time, timeMargin) &&
-    inMargin(sequencePoint.value.relX, singlePoint.value.relX, positionMargin) &&
-    inMargin(sequencePoint.value.relY, singlePoint.value.relY, positionMargin));
+  return (
+    inMargin(sequencePoint.time, singlePoint.time, timeMargin) &&
+    inMargin(
+      sequencePoint.value.relX,
+      singlePoint.value.relX,
+      positionMargin
+    ) &&
+    inMargin(sequencePoint.value.relY, singlePoint.value.relY, positionMargin)
+  );
 }
 
 /**
@@ -69,5 +76,8 @@ function compareDataPoint(singlePoint, sequencePoint) {
  * @returns {boolean}
  */
 function inMargin(comparedValue, centerValue, margin) {
-  return comparedValue <= centerValue + margin && comparedValue >= centerValue - margin;
+  return (
+    comparedValue <= centerValue + margin &&
+    comparedValue >= centerValue - margin
+  );
 }
