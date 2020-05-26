@@ -1,1 +1,3448 @@
-webAudioXML.addSequence('_storedGesture', [{"time":0,"name":"pointerdown","value":{"relX":2.756508422664625,"relY":2.909647779479326}},{"time":247,"name":"pointermove","value":{"relX":2.756508422664625,"relY":2.909647779479326}},{"time":255,"name":"pointermove","value":{"relX":2.909647779479326,"relY":2.909647779479326}},{"time":263,"name":"pointermove","value":{"relX":3.0627871362940278,"relY":3.0627871362940278}},{"time":271,"name":"pointermove","value":{"relX":3.215926493108729,"relY":3.215926493108729}},{"time":279,"name":"pointermove","value":{"relX":3.3690658499234303,"relY":3.215926493108729}},{"time":287,"name":"pointermove","value":{"relX":3.522205206738132,"relY":3.3690658499234303}},{"time":295,"name":"pointermove","value":{"relX":3.522205206738132,"relY":3.3690658499234303}},{"time":303,"name":"pointermove","value":{"relX":3.828483920367534,"relY":3.3690658499234303}},{"time":311,"name":"pointermove","value":{"relX":3.828483920367534,"relY":3.522205206738132}},{"time":319,"name":"pointermove","value":{"relX":3.9816232771822357,"relY":3.522205206738132}},{"time":327,"name":"pointermove","value":{"relX":4.134762633996937,"relY":3.6753445635528332}},{"time":335,"name":"pointermove","value":{"relX":4.134762633996937,"relY":3.6753445635528332}},{"time":343,"name":"pointermove","value":{"relX":4.134762633996937,"relY":3.6753445635528332}},{"time":350,"name":"pointermove","value":{"relX":4.287901990811639,"relY":3.6753445635528332}},{"time":359,"name":"pointermove","value":{"relX":4.287901990811639,"relY":3.828483920367534}},{"time":367,"name":"pointermove","value":{"relX":4.287901990811639,"relY":3.828483920367534}},{"time":375,"name":"pointermove","value":{"relX":4.44104134762634,"relY":3.828483920367534}},{"time":407,"name":"pointermove","value":{"relX":4.44104134762634,"relY":3.828483920367534}},{"time":439,"name":"pointermove","value":{"relX":4.44104134762634,"relY":3.828483920367534}},{"time":447,"name":"pointermove","value":{"relX":4.44104134762634,"relY":3.828483920367534}},{"time":455,"name":"pointermove","value":{"relX":4.44104134762634,"relY":3.828483920367534}},{"time":463,"name":"pointermove","value":{"relX":4.594180704441041,"relY":3.9816232771822357}},{"time":471,"name":"pointermove","value":{"relX":4.594180704441041,"relY":3.9816232771822357}},{"time":478,"name":"pointermove","value":{"relX":4.594180704441041,"relY":3.9816232771822357}},{"time":487,"name":"pointermove","value":{"relX":4.747320061255743,"relY":3.9816232771822357}},{"time":495,"name":"pointermove","value":{"relX":4.747320061255743,"relY":4.134762633996937}},{"time":503,"name":"pointermove","value":{"relX":4.747320061255743,"relY":4.134762633996937}},{"time":511,"name":"pointermove","value":{"relX":4.900459418070445,"relY":4.134762633996937}},{"time":518,"name":"pointermove","value":{"relX":4.900459418070445,"relY":4.134762633996937}},{"time":527,"name":"pointermove","value":{"relX":4.900459418070445,"relY":4.287901990811639}},{"time":535,"name":"pointermove","value":{"relX":5.053598774885145,"relY":4.287901990811639}},{"time":542,"name":"pointermove","value":{"relX":5.053598774885145,"relY":4.287901990811639}},{"time":551,"name":"pointermove","value":{"relX":5.053598774885145,"relY":4.44104134762634}},{"time":559,"name":"pointermove","value":{"relX":5.206738131699847,"relY":4.44104134762634}},{"time":567,"name":"pointermove","value":{"relX":5.206738131699847,"relY":4.44104134762634}},{"time":575,"name":"pointermove","value":{"relX":5.359877488514548,"relY":4.594180704441041}},{"time":582,"name":"pointermove","value":{"relX":5.359877488514548,"relY":4.594180704441041}},{"time":591,"name":"pointermove","value":{"relX":5.51301684532925,"relY":4.594180704441041}},{"time":599,"name":"pointermove","value":{"relX":5.51301684532925,"relY":4.747320061255743}},{"time":609,"name":"pointermove","value":{"relX":5.66615620214395,"relY":4.747320061255743}},{"time":617,"name":"pointermove","value":{"relX":5.66615620214395,"relY":4.747320061255743}},{"time":625,"name":"pointermove","value":{"relX":5.66615620214395,"relY":4.747320061255743}},{"time":632,"name":"pointermove","value":{"relX":5.819295558958652,"relY":4.900459418070445}},{"time":641,"name":"pointermove","value":{"relX":5.819295558958652,"relY":4.900459418070445}},{"time":649,"name":"pointermove","value":{"relX":5.819295558958652,"relY":4.900459418070445}},{"time":656,"name":"pointermove","value":{"relX":5.972434915773354,"relY":4.900459418070445}},{"time":664,"name":"pointermove","value":{"relX":5.972434915773354,"relY":5.053598774885145}},{"time":672,"name":"pointermove","value":{"relX":5.972434915773354,"relY":5.053598774885145}},{"time":681,"name":"pointermove","value":{"relX":6.1255742725880555,"relY":5.053598774885145}},{"time":688,"name":"pointermove","value":{"relX":6.1255742725880555,"relY":5.053598774885145}},{"time":697,"name":"pointermove","value":{"relX":6.1255742725880555,"relY":5.206738131699847}},{"time":704,"name":"pointermove","value":{"relX":6.1255742725880555,"relY":5.206738131699847}},{"time":712,"name":"pointermove","value":{"relX":6.278713629402756,"relY":5.206738131699847}},{"time":721,"name":"pointermove","value":{"relX":6.278713629402756,"relY":5.359877488514548}},{"time":729,"name":"pointermove","value":{"relX":6.278713629402756,"relY":5.359877488514548}},{"time":736,"name":"pointermove","value":{"relX":6.431852986217458,"relY":5.359877488514548}},{"time":744,"name":"pointermove","value":{"relX":6.431852986217458,"relY":5.359877488514548}},{"time":753,"name":"pointermove","value":{"relX":6.431852986217458,"relY":5.359877488514548}},{"time":761,"name":"pointermove","value":{"relX":6.431852986217458,"relY":5.51301684532925}},{"time":776,"name":"pointermove","value":{"relX":6.584992343032159,"relY":5.51301684532925}},{"time":785,"name":"pointermove","value":{"relX":6.584992343032159,"relY":5.51301684532925}},{"time":793,"name":"pointermove","value":{"relX":6.584992343032159,"relY":5.51301684532925}},{"time":800,"name":"pointermove","value":{"relX":6.738131699846861,"relY":5.66615620214395}},{"time":809,"name":"pointermove","value":{"relX":6.738131699846861,"relY":5.66615620214395}},{"time":817,"name":"pointermove","value":{"relX":6.738131699846861,"relY":5.66615620214395}},{"time":824,"name":"pointermove","value":{"relX":6.891271056661561,"relY":5.819295558958652}},{"time":832,"name":"pointermove","value":{"relX":6.891271056661561,"relY":5.819295558958652}},{"time":841,"name":"pointermove","value":{"relX":6.891271056661561,"relY":5.819295558958652}},{"time":849,"name":"pointermove","value":{"relX":7.044410413476264,"relY":5.972434915773354}},{"time":856,"name":"pointermove","value":{"relX":7.044410413476264,"relY":5.972434915773354}},{"time":864,"name":"pointermove","value":{"relX":7.197549770290965,"relY":5.972434915773354}},{"time":873,"name":"pointermove","value":{"relX":7.197549770290965,"relY":6.1255742725880555}},{"time":881,"name":"pointermove","value":{"relX":7.3506891271056665,"relY":6.1255742725880555}},{"time":889,"name":"pointermove","value":{"relX":7.3506891271056665,"relY":6.278713629402756}},{"time":896,"name":"pointermove","value":{"relX":7.503828483920367,"relY":6.278713629402756}},{"time":905,"name":"pointermove","value":{"relX":7.503828483920367,"relY":6.431852986217458}},{"time":913,"name":"pointermove","value":{"relX":7.656967840735068,"relY":6.431852986217458}},{"time":921,"name":"pointermove","value":{"relX":7.810107197549771,"relY":6.584992343032159}},{"time":929,"name":"pointermove","value":{"relX":7.810107197549771,"relY":6.584992343032159}},{"time":937,"name":"pointermove","value":{"relX":7.9632465543644715,"relY":6.738131699846861}},{"time":945,"name":"pointermove","value":{"relX":7.9632465543644715,"relY":6.738131699846861}},{"time":953,"name":"pointermove","value":{"relX":8.116385911179174,"relY":6.891271056661561}},{"time":960,"name":"pointermove","value":{"relX":8.116385911179174,"relY":6.891271056661561}},{"time":969,"name":"pointermove","value":{"relX":8.269525267993874,"relY":7.044410413476264}},{"time":976,"name":"pointermove","value":{"relX":8.422664624808576,"relY":7.044410413476264}},{"time":985,"name":"pointermove","value":{"relX":8.422664624808576,"relY":7.197549770290965}},{"time":993,"name":"pointermove","value":{"relX":8.575803981623277,"relY":7.3506891271056665}},{"time":1000,"name":"pointermove","value":{"relX":8.575803981623277,"relY":7.3506891271056665}},{"time":1009,"name":"pointermove","value":{"relX":8.728943338437979,"relY":7.503828483920367}},{"time":1017,"name":"pointermove","value":{"relX":8.728943338437979,"relY":7.503828483920367}},{"time":1025,"name":"pointermove","value":{"relX":8.88208269525268,"relY":7.656967840735068}},{"time":1032,"name":"pointermove","value":{"relX":8.88208269525268,"relY":7.656967840735068}},{"time":1040,"name":"pointermove","value":{"relX":9.03522205206738,"relY":7.810107197549771}},{"time":1049,"name":"pointermove","value":{"relX":9.03522205206738,"relY":7.810107197549771}},{"time":1057,"name":"pointermove","value":{"relX":9.188361408882082,"relY":7.9632465543644715}},{"time":1064,"name":"pointermove","value":{"relX":9.188361408882082,"relY":8.116385911179174}},{"time":1073,"name":"pointermove","value":{"relX":9.341500765696784,"relY":8.116385911179174}},{"time":1081,"name":"pointermove","value":{"relX":9.341500765696784,"relY":8.269525267993874}},{"time":1088,"name":"pointermove","value":{"relX":9.494640122511486,"relY":8.269525267993874}},{"time":1096,"name":"pointermove","value":{"relX":9.494640122511486,"relY":8.422664624808576}},{"time":1105,"name":"pointermove","value":{"relX":9.647779479326186,"relY":8.422664624808576}},{"time":1113,"name":"pointermove","value":{"relX":9.647779479326186,"relY":8.575803981623277}},{"time":1120,"name":"pointermove","value":{"relX":9.80091883614089,"relY":8.575803981623277}},{"time":1128,"name":"pointermove","value":{"relX":9.80091883614089,"relY":8.728943338437979}},{"time":1137,"name":"pointermove","value":{"relX":9.95405819295559,"relY":8.728943338437979}},{"time":1144,"name":"pointermove","value":{"relX":9.95405819295559,"relY":8.88208269525268}},{"time":1152,"name":"pointermove","value":{"relX":10.10719754977029,"relY":9.03522205206738}},{"time":1160,"name":"pointermove","value":{"relX":10.260336906584993,"relY":9.03522205206738}},{"time":1168,"name":"pointermove","value":{"relX":10.260336906584993,"relY":9.188361408882082}},{"time":1176,"name":"pointermove","value":{"relX":10.413476263399694,"relY":9.188361408882082}},{"time":1185,"name":"pointermove","value":{"relX":10.413476263399694,"relY":9.341500765696784}},{"time":1192,"name":"pointermove","value":{"relX":10.566615620214396,"relY":9.341500765696784}},{"time":1200,"name":"pointermove","value":{"relX":10.719754977029096,"relY":9.494640122511486}},{"time":1209,"name":"pointermove","value":{"relX":10.719754977029096,"relY":9.647779479326186}},{"time":1217,"name":"pointermove","value":{"relX":10.872894333843798,"relY":9.647779479326186}},{"time":1225,"name":"pointermove","value":{"relX":11.0260336906585,"relY":9.80091883614089}},{"time":1233,"name":"pointermove","value":{"relX":11.179173047473201,"relY":9.95405819295559}},{"time":1241,"name":"pointermove","value":{"relX":11.179173047473201,"relY":10.10719754977029}},{"time":1249,"name":"pointermove","value":{"relX":11.3323124042879,"relY":10.10719754977029}},{"time":1257,"name":"pointermove","value":{"relX":11.485451761102604,"relY":10.260336906584993}},{"time":1265,"name":"pointermove","value":{"relX":11.485451761102604,"relY":10.413476263399694}},{"time":1273,"name":"pointermove","value":{"relX":11.638591117917304,"relY":10.566615620214396}},{"time":1281,"name":"pointermove","value":{"relX":11.638591117917304,"relY":10.566615620214396}},{"time":1289,"name":"pointermove","value":{"relX":11.791730474732006,"relY":10.719754977029096}},{"time":1296,"name":"pointermove","value":{"relX":11.791730474732006,"relY":10.872894333843798}},{"time":1305,"name":"pointermove","value":{"relX":11.944869831546708,"relY":10.872894333843798}},{"time":1313,"name":"pointermove","value":{"relX":12.098009188361408,"relY":11.0260336906585}},{"time":1321,"name":"pointermove","value":{"relX":12.251148545176111,"relY":11.179173047473201}},{"time":1328,"name":"pointermove","value":{"relX":12.251148545176111,"relY":11.3323124042879}},{"time":1336,"name":"pointermove","value":{"relX":12.404287901990811,"relY":11.3323124042879}},{"time":1345,"name":"pointermove","value":{"relX":12.404287901990811,"relY":11.485451761102604}},{"time":1352,"name":"pointermove","value":{"relX":12.557427258805513,"relY":11.638591117917304}},{"time":1360,"name":"pointermove","value":{"relX":12.710566615620214,"relY":11.638591117917304}},{"time":1368,"name":"pointermove","value":{"relX":12.710566615620214,"relY":11.791730474732006}},{"time":1376,"name":"pointermove","value":{"relX":12.863705972434916,"relY":11.791730474732006}},{"time":1385,"name":"pointermove","value":{"relX":12.863705972434916,"relY":11.944869831546708}},{"time":1392,"name":"pointermove","value":{"relX":13.016845329249618,"relY":12.098009188361408}},{"time":1400,"name":"pointermove","value":{"relX":13.169984686064318,"relY":12.098009188361408}},{"time":1408,"name":"pointermove","value":{"relX":13.169984686064318,"relY":12.251148545176111}},{"time":1417,"name":"pointermove","value":{"relX":13.32312404287902,"relY":12.404287901990811}},{"time":1425,"name":"pointermove","value":{"relX":13.32312404287902,"relY":12.404287901990811}},{"time":1433,"name":"pointermove","value":{"relX":13.476263399693721,"relY":12.404287901990811}},{"time":1441,"name":"pointermove","value":{"relX":13.476263399693721,"relY":12.557427258805513}},{"time":1448,"name":"pointermove","value":{"relX":13.629402756508421,"relY":12.710566615620214}},{"time":1456,"name":"pointermove","value":{"relX":13.782542113323123,"relY":12.710566615620214}},{"time":1465,"name":"pointermove","value":{"relX":13.782542113323123,"relY":12.863705972434916}},{"time":1473,"name":"pointermove","value":{"relX":13.935681470137826,"relY":12.863705972434916}},{"time":1480,"name":"pointermove","value":{"relX":14.088820826952528,"relY":13.016845329249618}},{"time":1488,"name":"pointermove","value":{"relX":14.088820826952528,"relY":13.016845329249618}},{"time":1496,"name":"pointermove","value":{"relX":14.241960183767228,"relY":13.169984686064318}},{"time":1505,"name":"pointermove","value":{"relX":14.39509954058193,"relY":13.32312404287902}},{"time":1513,"name":"pointermove","value":{"relX":14.548238897396631,"relY":13.476263399693721}},{"time":1520,"name":"pointermove","value":{"relX":14.548238897396631,"relY":13.476263399693721}},{"time":1529,"name":"pointermove","value":{"relX":14.701378254211333,"relY":13.629402756508421}},{"time":1537,"name":"pointermove","value":{"relX":14.854517611026033,"relY":13.629402756508421}},{"time":1544,"name":"pointermove","value":{"relX":15.007656967840735,"relY":13.782542113323123}},{"time":1552,"name":"pointermove","value":{"relX":15.160796324655438,"relY":13.935681470137826}},{"time":1560,"name":"pointermove","value":{"relX":15.160796324655438,"relY":14.088820826952528}},{"time":1568,"name":"pointermove","value":{"relX":15.313935681470136,"relY":14.088820826952528}},{"time":1576,"name":"pointermove","value":{"relX":15.46707503828484,"relY":14.241960183767228}},{"time":1584,"name":"pointermove","value":{"relX":15.620214395099541,"relY":14.241960183767228}},{"time":1592,"name":"pointermove","value":{"relX":15.773353751914243,"relY":14.39509954058193}},{"time":1601,"name":"pointermove","value":{"relX":15.773353751914243,"relY":14.548238897396631}},{"time":1609,"name":"pointermove","value":{"relX":16.079632465543643,"relY":14.701378254211333}},{"time":1616,"name":"pointermove","value":{"relX":16.079632465543643,"relY":14.854517611026033}},{"time":1625,"name":"pointermove","value":{"relX":16.38591117917305,"relY":15.007656967840735}},{"time":1633,"name":"pointermove","value":{"relX":16.539050535987748,"relY":15.160796324655438}},{"time":1641,"name":"pointermove","value":{"relX":16.69218989280245,"relY":15.313935681470136}},{"time":1649,"name":"pointermove","value":{"relX":16.84532924961715,"relY":15.46707503828484}},{"time":1656,"name":"pointermove","value":{"relX":16.998468606431853,"relY":15.620214395099541}},{"time":1665,"name":"pointermove","value":{"relX":17.151607963246555,"relY":15.773353751914243}},{"time":1673,"name":"pointermove","value":{"relX":17.304747320061256,"relY":15.926493108728943}},{"time":1681,"name":"pointermove","value":{"relX":17.457886676875958,"relY":16.079632465543643}},{"time":1688,"name":"pointermove","value":{"relX":17.611026033690656,"relY":16.232771822358348}},{"time":1697,"name":"pointermove","value":{"relX":17.611026033690656,"relY":16.38591117917305}},{"time":1705,"name":"pointermove","value":{"relX":17.76416539050536,"relY":16.539050535987748}},{"time":1712,"name":"pointermove","value":{"relX":17.917304747320063,"relY":16.69218989280245}},{"time":1720,"name":"pointermove","value":{"relX":18.07044410413476,"relY":16.84532924961715}},{"time":1729,"name":"pointermove","value":{"relX":18.07044410413476,"relY":16.998468606431853}},{"time":1737,"name":"pointermove","value":{"relX":18.223583460949463,"relY":17.151607963246555}},{"time":1744,"name":"pointermove","value":{"relX":18.376722817764165,"relY":17.304747320061256}},{"time":1752,"name":"pointermove","value":{"relX":18.376722817764165,"relY":17.457886676875958}},{"time":1761,"name":"pointermove","value":{"relX":18.529862174578867,"relY":17.611026033690656}},{"time":1769,"name":"pointermove","value":{"relX":18.529862174578867,"relY":17.76416539050536}},{"time":1781,"name":"pointermove","value":{"relX":18.68300153139357,"relY":17.917304747320063}},{"time":1784,"name":"pointermove","value":{"relX":18.83614088820827,"relY":18.07044410413476}},{"time":1792,"name":"pointermove","value":{"relX":18.98928024502297,"relY":18.223583460949463}},{"time":1800,"name":"pointermove","value":{"relX":18.98928024502297,"relY":18.223583460949463}},{"time":1808,"name":"pointermove","value":{"relX":19.142419601837673,"relY":18.376722817764165}},{"time":1816,"name":"pointermove","value":{"relX":19.142419601837673,"relY":18.529862174578867}},{"time":1825,"name":"pointermove","value":{"relX":19.29555895865237,"relY":18.68300153139357}},{"time":1833,"name":"pointermove","value":{"relX":19.448698315467077,"relY":18.83614088820827}},{"time":1841,"name":"pointermove","value":{"relX":19.60183767228178,"relY":18.98928024502297}},{"time":1848,"name":"pointermove","value":{"relX":19.60183767228178,"relY":19.142419601837673}},{"time":1857,"name":"pointermove","value":{"relX":19.754977029096477,"relY":19.29555895865237}},{"time":1865,"name":"pointermove","value":{"relX":19.90811638591118,"relY":19.448698315467077}},{"time":1873,"name":"pointermove","value":{"relX":20.06125574272588,"relY":19.60183767228178}},{"time":1881,"name":"pointermove","value":{"relX":20.21439509954058,"relY":19.754977029096477}},{"time":1889,"name":"pointermove","value":{"relX":20.367534456355283,"relY":19.90811638591118}},{"time":1897,"name":"pointermove","value":{"relX":20.673813169984687,"relY":20.21439509954058}},{"time":1905,"name":"pointermove","value":{"relX":20.82695252679939,"relY":20.520673813169985}},{"time":1913,"name":"pointermove","value":{"relX":20.980091883614087,"relY":20.673813169984687}},{"time":1921,"name":"pointermove","value":{"relX":21.286370597243494,"relY":20.980091883614087}},{"time":1929,"name":"pointermove","value":{"relX":21.43950995405819,"relY":21.286370597243494}},{"time":1937,"name":"pointermove","value":{"relX":21.745788667687595,"relY":21.43950995405819}},{"time":1944,"name":"pointermove","value":{"relX":21.898928024502297,"relY":21.745788667687595}},{"time":1953,"name":"pointermove","value":{"relX":22.052067381317,"relY":21.898928024502297}},{"time":1960,"name":"pointermove","value":{"relX":22.358346094946402,"relY":22.358346094946402}},{"time":1970,"name":"pointermove","value":{"relX":22.6646248085758,"relY":22.5114854517611}},{"time":1979,"name":"pointermove","value":{"relX":22.97090352220521,"relY":22.817764165390507}},{"time":1987,"name":"pointermove","value":{"relX":23.124042879019907,"relY":23.124042879019907}},{"time":1995,"name":"pointermove","value":{"relX":23.43032159264931,"relY":23.43032159264931}},{"time":2003,"name":"pointermove","value":{"relX":23.583460949464012,"relY":23.736600306278714}},{"time":2011,"name":"pointermove","value":{"relX":23.889739663093415,"relY":24.196018376722815}},{"time":2019,"name":"pointermove","value":{"relX":24.042879019908117,"relY":24.349157733537517}},{"time":2027,"name":"pointermove","value":{"relX":24.349157733537517,"relY":24.808575803981622}},{"time":2035,"name":"pointermove","value":{"relX":24.655436447166924,"relY":25.267993874425727}},{"time":2042,"name":"pointermove","value":{"relX":24.961715160796324,"relY":25.57427258805513}},{"time":2051,"name":"pointermove","value":{"relX":25.42113323124043,"relY":25.880551301684534}},{"time":2058,"name":"pointermove","value":{"relX":25.57427258805513,"relY":26.339969372128635}},{"time":2066,"name":"pointermove","value":{"relX":25.880551301684534,"relY":26.64624808575804}},{"time":2074,"name":"pointermove","value":{"relX":26.186830015313934,"relY":26.952526799387442}},{"time":2082,"name":"pointermove","value":{"relX":26.339969372128635,"relY":27.105666156202147}},{"time":2091,"name":"pointermove","value":{"relX":26.64624808575804,"relY":27.411944869831544}},{"time":2099,"name":"pointermove","value":{"relX":26.79938744257274,"relY":27.71822358346095}},{"time":2611,"name":"pointermove","value":{"relX":27.105666156202147,"relY":27.871362940275652}},{"time":2619,"name":"pointermove","value":{"relX":27.258805513016842,"relY":28.024502297090354}},{"time":2626,"name":"pointermove","value":{"relX":27.565084226646245,"relY":28.177641653905056}},{"time":2635,"name":"pointermove","value":{"relX":27.71822358346095,"relY":28.330781010719758}},{"time":2643,"name":"pointermove","value":{"relX":27.871362940275652,"relY":28.483920367534456}},{"time":2651,"name":"pointermove","value":{"relX":28.177641653905056,"relY":28.79019908116386}},{"time":2658,"name":"pointermove","value":{"relX":28.483920367534456,"relY":28.94333843797856}},{"time":2667,"name":"pointermove","value":{"relX":28.637059724349157,"relY":29.096477794793262}},{"time":2675,"name":"pointermove","value":{"relX":28.94333843797856,"relY":29.249617151607964}},{"time":2683,"name":"pointermove","value":{"relX":29.096477794793262,"relY":29.402756508422666}},{"time":2690,"name":"pointermove","value":{"relX":29.402756508422666,"relY":29.555895865237364}},{"time":2698,"name":"pointermove","value":{"relX":29.555895865237364,"relY":29.709035222052066}},{"time":2707,"name":"pointermove","value":{"relX":29.709035222052066,"relY":29.862174578866767}},{"time":2715,"name":"pointermove","value":{"relX":30.01531393568147,"relY":29.862174578866767}},{"time":2723,"name":"pointermove","value":{"relX":30.16845329249617,"relY":30.01531393568147}},{"time":2730,"name":"pointermove","value":{"relX":30.321592649310876,"relY":30.16845329249617}},{"time":2738,"name":"pointermove","value":{"relX":30.627871362940272,"relY":30.321592649310876}},{"time":2747,"name":"pointermove","value":{"relX":30.781010719754974,"relY":30.474732006125578}},{"time":2754,"name":"pointermove","value":{"relX":30.93415007656968,"relY":30.474732006125578}},{"time":2762,"name":"pointermove","value":{"relX":30.93415007656968,"relY":30.627871362940272}},{"time":2770,"name":"pointermove","value":{"relX":31.240428790199083,"relY":30.781010719754974}},{"time":2779,"name":"pointermove","value":{"relX":31.240428790199083,"relY":30.781010719754974}},{"time":2787,"name":"pointermove","value":{"relX":31.393568147013784,"relY":30.93415007656968}},{"time":2795,"name":"pointermove","value":{"relX":31.546707503828486,"relY":31.08728943338438}},{"time":2803,"name":"pointermove","value":{"relX":31.699846860643184,"relY":31.240428790199083}},{"time":2811,"name":"pointermove","value":{"relX":31.852986217457886,"relY":31.240428790199083}},{"time":2818,"name":"pointermove","value":{"relX":32.00612557427259,"relY":31.393568147013784}},{"time":2826,"name":"pointermove","value":{"relX":32.159264931087286,"relY":31.546707503828486}},{"time":2835,"name":"pointermove","value":{"relX":32.31240428790199,"relY":31.852986217457886}},{"time":2843,"name":"pointermove","value":{"relX":32.465543644716696,"relY":31.852986217457886}},{"time":2851,"name":"pointermove","value":{"relX":32.7718223583461,"relY":32.159264931087286}},{"time":2858,"name":"pointermove","value":{"relX":32.7718223583461,"relY":32.31240428790199}},{"time":2866,"name":"pointermove","value":{"relX":32.92496171516079,"relY":32.31240428790199}},{"time":2875,"name":"pointermove","value":{"relX":33.2312404287902,"relY":32.618683001531394}},{"time":2883,"name":"pointermove","value":{"relX":33.3843797856049,"relY":32.618683001531394}},{"time":2890,"name":"pointermove","value":{"relX":33.537519142419605,"relY":32.92496171516079}},{"time":2899,"name":"pointermove","value":{"relX":33.6906584992343,"relY":32.92496171516079}},{"time":2907,"name":"pointermove","value":{"relX":33.84379785604901,"relY":33.2312404287902}},{"time":2914,"name":"pointermove","value":{"relX":34.150076569678404,"relY":33.2312404287902}},{"time":2922,"name":"pointermove","value":{"relX":34.30321592649311,"relY":33.537519142419605}},{"time":2930,"name":"pointermove","value":{"relX":34.45635528330781,"relY":33.6906584992343}},{"time":2938,"name":"pointermove","value":{"relX":34.76263399693721,"relY":33.84379785604901}},{"time":2947,"name":"pointermove","value":{"relX":34.915773353751916,"relY":33.996937212863706}},{"time":2955,"name":"pointermove","value":{"relX":35.22205206738131,"relY":34.30321592649311}},{"time":2963,"name":"pointermove","value":{"relX":35.37519142419602,"relY":34.45635528330781}},{"time":2971,"name":"pointermove","value":{"relX":35.68147013782542,"relY":34.60949464012251}},{"time":2978,"name":"pointermove","value":{"relX":35.83460949464013,"relY":34.76263399693721}},{"time":2986,"name":"pointermove","value":{"relX":35.987748851454825,"relY":35.068912710566615}},{"time":2994,"name":"pointermove","value":{"relX":36.29402756508423,"relY":35.22205206738131}},{"time":3002,"name":"pointermove","value":{"relX":36.447166921898926,"relY":35.37519142419602}},{"time":3011,"name":"pointermove","value":{"relX":36.60030627871363,"relY":35.52833078101072}},{"time":3019,"name":"pointermove","value":{"relX":36.75344563552833,"relY":35.68147013782542}},{"time":3026,"name":"pointermove","value":{"relX":36.906584992343035,"relY":35.68147013782542}},{"time":3035,"name":"pointermove","value":{"relX":37.05972434915773,"relY":35.83460949464013}},{"time":3043,"name":"pointermove","value":{"relX":37.05972434915773,"relY":35.987748851454825}},{"time":3053,"name":"pointermove","value":{"relX":37.21286370597244,"relY":36.14088820826952}},{"time":3061,"name":"pointermove","value":{"relX":37.36600306278714,"relY":36.14088820826952}},{"time":3069,"name":"pointermove","value":{"relX":37.519142419601835,"relY":36.29402756508423}},{"time":3076,"name":"pointermove","value":{"relX":37.519142419601835,"relY":36.447166921898926}},{"time":3084,"name":"pointermove","value":{"relX":37.67228177641654,"relY":36.60030627871363}},{"time":3092,"name":"pointermove","value":{"relX":37.82542113323124,"relY":36.75344563552833}},{"time":3101,"name":"pointermove","value":{"relX":37.97856049004594,"relY":36.906584992343035}},{"time":3109,"name":"pointermove","value":{"relX":38.13169984686064,"relY":37.05972434915773}},{"time":3116,"name":"pointermove","value":{"relX":38.28483920367535,"relY":37.21286370597244}},{"time":3124,"name":"pointermove","value":{"relX":38.437978560490045,"relY":37.36600306278714}},{"time":3133,"name":"pointermove","value":{"relX":38.59111791730474,"relY":37.519142419601835}},{"time":3141,"name":"pointermove","value":{"relX":38.74425727411945,"relY":37.67228177641654}},{"time":3148,"name":"pointermove","value":{"relX":38.89739663093415,"relY":37.82542113323124}},{"time":3157,"name":"pointermove","value":{"relX":39.05053598774885,"relY":37.97856049004594}},{"time":3165,"name":"pointermove","value":{"relX":39.20367534456356,"relY":38.13169984686064}},{"time":3172,"name":"pointermove","value":{"relX":39.356814701378255,"relY":38.28483920367535}},{"time":3180,"name":"pointermove","value":{"relX":39.50995405819295,"relY":38.437978560490045}},{"time":3188,"name":"pointermove","value":{"relX":39.66309341500766,"relY":38.437978560490045}},{"time":3196,"name":"pointermove","value":{"relX":39.81623277182236,"relY":38.59111791730474}},{"time":3204,"name":"pointermove","value":{"relX":39.96937212863706,"relY":38.74425727411945}},{"time":3212,"name":"pointermove","value":{"relX":40.12251148545176,"relY":38.89739663093415}},{"time":3220,"name":"pointermove","value":{"relX":40.275650842266465,"relY":39.05053598774885}},{"time":3229,"name":"pointermove","value":{"relX":40.42879019908116,"relY":39.20367534456356}},{"time":3237,"name":"pointermove","value":{"relX":40.58192955589586,"relY":39.20367534456356}},{"time":3244,"name":"pointermove","value":{"relX":40.73506891271057,"relY":39.50995405819295}},{"time":3252,"name":"pointermove","value":{"relX":40.888208269525265,"relY":39.50995405819295}},{"time":3261,"name":"pointermove","value":{"relX":41.04134762633997,"relY":39.66309341500766}},{"time":3269,"name":"pointermove","value":{"relX":41.34762633996937,"relY":39.81623277182236}},{"time":3276,"name":"pointermove","value":{"relX":41.50076569678408,"relY":40.12251148545176}},{"time":3285,"name":"pointermove","value":{"relX":41.65390505359878,"relY":40.12251148545176}},{"time":3293,"name":"pointermove","value":{"relX":42.11332312404288,"relY":40.42879019908116}},{"time":3300,"name":"pointermove","value":{"relX":42.11332312404288,"relY":40.58192955589586}},{"time":3308,"name":"pointermove","value":{"relX":42.41960183767228,"relY":40.73506891271057}},{"time":3317,"name":"pointermove","value":{"relX":42.57274119448699,"relY":41.04134762633997}},{"time":3325,"name":"pointermove","value":{"relX":42.87901990811638,"relY":41.19448698315467}},{"time":3333,"name":"pointermove","value":{"relX":43.03215926493109,"relY":41.34762633996937}},{"time":3341,"name":"pointermove","value":{"relX":43.33843797856049,"relY":41.50076569678408}},{"time":3349,"name":"pointermove","value":{"relX":43.49157733537519,"relY":41.807044410413475}},{"time":3356,"name":"pointermove","value":{"relX":43.797856049004594,"relY":41.807044410413475}},{"time":3365,"name":"pointermove","value":{"relX":43.95099540581929,"relY":42.11332312404288}},{"time":3373,"name":"pointermove","value":{"relX":44.104134762634,"relY":42.266462480857584}},{"time":3380,"name":"pointermove","value":{"relX":44.4104134762634,"relY":42.57274119448699}},{"time":3389,"name":"pointermove","value":{"relX":44.716692189892804,"relY":42.725880551301685}},{"time":3396,"name":"pointermove","value":{"relX":44.86983154670751,"relY":42.87901990811638}},{"time":3405,"name":"pointermove","value":{"relX":45.176110260336905,"relY":43.18529862174579}},{"time":3412,"name":"pointermove","value":{"relX":45.3292496171516,"relY":43.33843797856049}},{"time":3421,"name":"pointermove","value":{"relX":45.635528330781014,"relY":43.644716692189895}},{"time":3429,"name":"pointermove","value":{"relX":45.78866768759571,"relY":43.797856049004594}},{"time":3437,"name":"pointermove","value":{"relX":46.094946401225116,"relY":43.95099540581929}},{"time":3444,"name":"pointermove","value":{"relX":46.248085758039814,"relY":44.104134762634}},{"time":3452,"name":"pointermove","value":{"relX":46.40122511485452,"relY":44.4104134762634}},{"time":3461,"name":"pointermove","value":{"relX":46.55436447166922,"relY":44.4104134762634}},{"time":3469,"name":"pointermove","value":{"relX":46.70750382848392,"relY":44.716692189892804}},{"time":3476,"name":"pointermove","value":{"relX":46.86064318529862,"relY":44.716692189892804}},{"time":3484,"name":"pointermove","value":{"relX":47.166921898928024,"relY":44.86983154670751}},{"time":3492,"name":"pointermove","value":{"relX":47.32006125574272,"relY":45.176110260336905}},{"time":3501,"name":"pointermove","value":{"relX":47.47320061255743,"relY":45.176110260336905}},{"time":3508,"name":"pointermove","value":{"relX":47.626339969372125,"relY":45.48238897396631}},{"time":3516,"name":"pointermove","value":{"relX":47.77947932618683,"relY":45.48238897396631}},{"time":3525,"name":"pointermove","value":{"relX":47.93261868300153,"relY":45.635528330781014}},{"time":3533,"name":"pointermove","value":{"relX":48.085758039816234,"relY":45.78866768759571}},{"time":3540,"name":"pointermove","value":{"relX":48.23889739663094,"relY":45.94180704441042}},{"time":3548,"name":"pointermove","value":{"relX":48.39203675344563,"relY":46.094946401225116}},{"time":3557,"name":"pointermove","value":{"relX":48.545176110260336,"relY":46.248085758039814}},{"time":3564,"name":"pointermove","value":{"relX":48.85145482388974,"relY":46.40122511485452}},{"time":3572,"name":"pointermove","value":{"relX":49.004594180704444,"relY":46.70750382848392}},{"time":3580,"name":"pointermove","value":{"relX":49.31087289433385,"relY":46.86064318529862}},{"time":3589,"name":"pointermove","value":{"relX":49.464012251148546,"relY":47.013782542113326}},{"time":3597,"name":"pointermove","value":{"relX":49.617151607963244,"relY":47.166921898928024}},{"time":3604,"name":"pointermove","value":{"relX":49.92343032159265,"relY":47.626339969372125}},{"time":3613,"name":"pointermove","value":{"relX":50.076569678407346,"relY":47.626339969372125}},{"time":3621,"name":"pointermove","value":{"relX":50.22970903522205,"relY":47.93261868300153}},{"time":3629,"name":"pointermove","value":{"relX":50.535987748851454,"relY":48.23889739663094}},{"time":3637,"name":"pointermove","value":{"relX":50.68912710566615,"relY":48.39203675344563}},{"time":3645,"name":"pointermove","value":{"relX":50.84226646248086,"relY":48.698315467075034}},{"time":3653,"name":"pointermove","value":{"relX":50.995405819295556,"relY":48.85145482388974}},{"time":3661,"name":"pointermove","value":{"relX":51.301684532924966,"relY":49.15773353751914}},{"time":3668,"name":"pointermove","value":{"relX":51.454823889739664,"relY":49.31087289433385}},{"time":3677,"name":"pointermove","value":{"relX":51.60796324655437,"relY":49.617151607963244}},{"time":3684,"name":"pointermove","value":{"relX":51.91424196018377,"relY":49.77029096477795}},{"time":3693,"name":"pointermove","value":{"relX":52.06738131699847,"relY":50.076569678407346}},{"time":3700,"name":"pointermove","value":{"relX":52.37366003062787,"relY":50.38284839203675}},{"time":3709,"name":"pointermove","value":{"relX":52.526799387442566,"relY":50.535987748851454}},{"time":3716,"name":"pointermove","value":{"relX":52.67993874425727,"relY":50.84226646248086}},{"time":3724,"name":"pointermove","value":{"relX":52.986217457886674,"relY":51.14854517611026}},{"time":3733,"name":"pointermove","value":{"relX":53.13935681470138,"relY":51.301684532924966}},{"time":3740,"name":"pointermove","value":{"relX":53.44563552833078,"relY":51.60796324655437}},{"time":3749,"name":"pointermove","value":{"relX":53.59877488514548,"relY":51.76110260336907}},{"time":3757,"name":"pointermove","value":{"relX":53.751914241960186,"relY":52.06738131699847}},{"time":3764,"name":"pointermove","value":{"relX":53.905053598774884,"relY":52.220520673813176}},{"time":3772,"name":"pointermove","value":{"relX":54.05819295558959,"relY":52.37366003062787}},{"time":3780,"name":"pointermove","value":{"relX":54.36447166921899,"relY":52.67993874425727}},{"time":3792,"name":"pointermove","value":{"relX":54.517611026033684,"relY":52.833078101071976}},{"time":3796,"name":"pointermove","value":{"relX":54.82388973966309,"relY":53.13935681470138}},{"time":3804,"name":"pointermove","value":{"relX":54.97702909647779,"relY":53.13935681470138}},{"time":3812,"name":"pointermove","value":{"relX":55.13016845329249,"relY":53.44563552833078}},{"time":3820,"name":"pointermove","value":{"relX":55.283307810107196,"relY":53.59877488514548}},{"time":3828,"name":"pointermove","value":{"relX":55.5895865237366,"relY":54.05819295558959}},{"time":3836,"name":"pointermove","value":{"relX":55.742725880551305,"relY":54.05819295558959}},{"time":3845,"name":"pointermove","value":{"relX":55.895865237366,"relY":54.36447166921899}},{"time":3853,"name":"pointermove","value":{"relX":56.202143950995406,"relY":54.517611026033684}},{"time":3861,"name":"pointermove","value":{"relX":56.35528330781011,"relY":54.82388973966309}},{"time":3868,"name":"pointermove","value":{"relX":56.50842266462482,"relY":54.97702909647779}},{"time":3877,"name":"pointermove","value":{"relX":56.661562021439515,"relY":55.13016845329249}},{"time":3884,"name":"pointermove","value":{"relX":56.814701378254206,"relY":55.4364471669219}},{"time":3893,"name":"pointermove","value":{"relX":57.12098009188361,"relY":55.5895865237366}},{"time":3901,"name":"pointermove","value":{"relX":57.274119448698315,"relY":55.742725880551305}},{"time":3908,"name":"pointermove","value":{"relX":57.58039816232772,"relY":56.04900459418071}},{"time":3917,"name":"pointermove","value":{"relX":57.733537519142416,"relY":56.04900459418071}},{"time":3925,"name":"pointermove","value":{"relX":57.88667687595712,"relY":56.202143950995406}},{"time":3933,"name":"pointermove","value":{"relX":58.03981623277183,"relY":56.35528330781011}},{"time":3940,"name":"pointermove","value":{"relX":58.192955589586525,"relY":56.50842266462482}},{"time":3948,"name":"pointermove","value":{"relX":58.34609494640123,"relY":56.661562021439515}},{"time":3956,"name":"pointermove","value":{"relX":58.49923430321593,"relY":56.814701378254206}},{"time":3964,"name":"pointermove","value":{"relX":58.652373660030634,"relY":56.96784073506891}},{"time":3972,"name":"pointermove","value":{"relX":58.80551301684533,"relY":57.12098009188361}},{"time":3981,"name":"pointermove","value":{"relX":59.11179173047473,"relY":57.42725880551301}},{"time":3989,"name":"pointermove","value":{"relX":59.264931087289426,"relY":57.58039816232772}},{"time":3996,"name":"pointermove","value":{"relX":59.41807044410413,"relY":57.733537519142416}},{"time":4004,"name":"pointermove","value":{"relX":59.57120980091884,"relY":57.88667687595712}},{"time":4013,"name":"pointermove","value":{"relX":59.724349157733535,"relY":58.03981623277183}},{"time":4021,"name":"pointermove","value":{"relX":59.87748851454824,"relY":58.192955589586525}},{"time":4029,"name":"pointermove","value":{"relX":60.03062787136294,"relY":58.34609494640123}},{"time":4037,"name":"pointermove","value":{"relX":60.03062787136294,"relY":58.49923430321593}},{"time":4045,"name":"pointermove","value":{"relX":60.18376722817764,"relY":58.49923430321593}},{"time":4053,"name":"pointermove","value":{"relX":60.18376722817764,"relY":58.652373660030634}},{"time":4061,"name":"pointermove","value":{"relX":60.18376722817764,"relY":58.652373660030634}},{"time":4068,"name":"pointermove","value":{"relX":60.33690658499234,"relY":58.652373660030634}},{"time":4077,"name":"pointermove","value":{"relX":60.33690658499234,"relY":58.652373660030634}},{"time":4085,"name":"pointermove","value":{"relX":60.33690658499234,"relY":58.652373660030634}},{"time":4486,"name":"pointermove","value":{"relX":60.33690658499234,"relY":58.80551301684533}},{"time":4494,"name":"pointermove","value":{"relX":60.49004594180705,"relY":59.11179173047473}},{"time":4503,"name":"pointermove","value":{"relX":60.64318529862175,"relY":59.264931087289426}},{"time":4510,"name":"pointermove","value":{"relX":60.949464012251156,"relY":59.724349157733535}},{"time":4518,"name":"pointermove","value":{"relX":61.102603369065854,"relY":59.87748851454824}},{"time":4526,"name":"pointermove","value":{"relX":61.255742725880545,"relY":60.03062787136294}},{"time":4535,"name":"pointermove","value":{"relX":61.40888208269525,"relY":60.33690658499234}},{"time":4543,"name":"pointermove","value":{"relX":61.71516079632465,"relY":60.49004594180705}},{"time":4550,"name":"pointermove","value":{"relX":61.86830015313936,"relY":60.79632465543645}},{"time":4558,"name":"pointermove","value":{"relX":62.17457886676876,"relY":60.949464012251156}},{"time":4567,"name":"pointermove","value":{"relX":62.32771822358346,"relY":61.102603369065854}},{"time":4574,"name":"pointermove","value":{"relX":62.63399693721286,"relY":61.255742725880545}},{"time":4582,"name":"pointermove","value":{"relX":62.78713629402757,"relY":61.40888208269525}},{"time":4590,"name":"pointermove","value":{"relX":63.09341500765697,"relY":61.56202143950995}},{"time":4598,"name":"pointermove","value":{"relX":63.24655436447168,"relY":61.71516079632465}},{"time":4607,"name":"pointermove","value":{"relX":63.55283307810107,"relY":61.86830015313936}},{"time":4615,"name":"pointermove","value":{"relX":63.70597243491577,"relY":62.02143950995406}},{"time":4623,"name":"pointermove","value":{"relX":63.85911179173047,"relY":62.17457886676876}},{"time":4631,"name":"pointermove","value":{"relX":64.01225114854518,"relY":62.17457886676876}},{"time":4639,"name":"pointermove","value":{"relX":64.16539050535988,"relY":62.480857580398165}},{"time":4646,"name":"pointermove","value":{"relX":64.47166921898928,"relY":62.480857580398165}},{"time":4654,"name":"pointermove","value":{"relX":64.62480857580398,"relY":62.63399693721286}},{"time":4662,"name":"pointermove","value":{"relX":64.62480857580398,"relY":62.78713629402757}},{"time":4670,"name":"pointermove","value":{"relX":64.93108728943339,"relY":62.94027565084227}},{"time":4678,"name":"pointermove","value":{"relX":65.08422664624808,"relY":63.09341500765697}},{"time":4686,"name":"pointermove","value":{"relX":65.08422664624808,"relY":63.24655436447168}},{"time":4694,"name":"pointermove","value":{"relX":65.3905053598775,"relY":63.24655436447168}},{"time":4702,"name":"pointermove","value":{"relX":65.3905053598775,"relY":63.39969372128637}},{"time":4711,"name":"pointermove","value":{"relX":65.5436447166922,"relY":63.55283307810107}},{"time":4719,"name":"pointermove","value":{"relX":65.69678407350689,"relY":63.70597243491577}},{"time":4726,"name":"pointermove","value":{"relX":65.84992343032158,"relY":63.70597243491577}},{"time":4735,"name":"pointermove","value":{"relX":66.00306278713629,"relY":63.85911179173047}},{"time":4742,"name":"pointermove","value":{"relX":66.15620214395099,"relY":64.01225114854518}},{"time":4750,"name":"pointermove","value":{"relX":66.3093415007657,"relY":64.16539050535988}},{"time":4758,"name":"pointermove","value":{"relX":66.4624808575804,"relY":64.31852986217457}},{"time":4766,"name":"pointermove","value":{"relX":66.6156202143951,"relY":64.31852986217457}},{"time":4774,"name":"pointermove","value":{"relX":66.7687595712098,"relY":64.47166921898928}},{"time":4782,"name":"pointermove","value":{"relX":66.9218989280245,"relY":64.62480857580398}},{"time":4791,"name":"pointermove","value":{"relX":67.07503828483921,"relY":64.77794793261869}},{"time":4798,"name":"pointermove","value":{"relX":67.3813169984686,"relY":65.08422664624808}},{"time":4806,"name":"pointermove","value":{"relX":67.53445635528331,"relY":65.23736600306279}},{"time":4814,"name":"pointermove","value":{"relX":67.68759571209802,"relY":65.3905053598775}},{"time":4822,"name":"pointermove","value":{"relX":67.99387442572741,"relY":65.69678407350689}},{"time":4831,"name":"pointermove","value":{"relX":68.1470137825421,"relY":65.69678407350689}},{"time":4838,"name":"pointermove","value":{"relX":68.30015313935681,"relY":66.00306278713629}},{"time":4846,"name":"pointermove","value":{"relX":68.60643185298622,"relY":66.15620214395099}},{"time":4855,"name":"pointermove","value":{"relX":68.75957120980092,"relY":66.3093415007657}},{"time":4863,"name":"pointermove","value":{"relX":68.91271056661562,"relY":66.4624808575804}},{"time":4871,"name":"pointermove","value":{"relX":69.06584992343032,"relY":66.7687595712098}},{"time":4878,"name":"pointermove","value":{"relX":69.21898928024503,"relY":66.9218989280245}},{"time":4886,"name":"pointermove","value":{"relX":69.52526799387442,"relY":66.9218989280245}},{"time":4894,"name":"pointermove","value":{"relX":69.67840735068913,"relY":67.07503828483921}},{"time":4902,"name":"pointermove","value":{"relX":69.67840735068913,"relY":67.22817764165391}},{"time":4910,"name":"pointermove","value":{"relX":69.98468606431854,"relY":67.3813169984686}},{"time":4918,"name":"pointermove","value":{"relX":70.13782542113323,"relY":67.53445635528331}},{"time":4926,"name":"pointermove","value":{"relX":70.13782542113323,"relY":67.68759571209802}},{"time":4934,"name":"pointermove","value":{"relX":70.44410413476263,"relY":67.84073506891271}},{"time":4942,"name":"pointermove","value":{"relX":70.44410413476263,"relY":67.99387442572741}},{"time":4950,"name":"pointermove","value":{"relX":70.75038284839204,"relY":68.1470137825421}},{"time":4959,"name":"pointermove","value":{"relX":70.90352220520674,"relY":68.30015313935681}},{"time":4966,"name":"pointermove","value":{"relX":71.05666156202145,"relY":68.45329249617151}},{"time":4974,"name":"pointermove","value":{"relX":71.20980091883614,"relY":68.60643185298622}},{"time":4982,"name":"pointermove","value":{"relX":71.36294027565084,"relY":68.91271056661562}},{"time":4990,"name":"pointermove","value":{"relX":71.51607963246555,"relY":69.06584992343032}},{"time":4998,"name":"pointermove","value":{"relX":71.66921898928025,"relY":69.21898928024503}},{"time":5006,"name":"pointermove","value":{"relX":71.82235834609494,"relY":69.37212863705973}},{"time":5014,"name":"pointermove","value":{"relX":71.82235834609494,"relY":69.52526799387442}},{"time":5022,"name":"pointermove","value":{"relX":72.12863705972435,"relY":69.83154670750383}},{"time":5030,"name":"pointermove","value":{"relX":72.12863705972435,"relY":69.83154670750383}},{"time":5038,"name":"pointermove","value":{"relX":72.28177641653905,"relY":69.98468606431854}},{"time":5046,"name":"pointermove","value":{"relX":72.43491577335375,"relY":70.13782542113323}},{"time":5054,"name":"pointermove","value":{"relX":72.43491577335375,"relY":70.29096477794793}},{"time":5062,"name":"pointermove","value":{"relX":72.58805513016846,"relY":70.44410413476263}},{"time":5070,"name":"pointermove","value":{"relX":72.74119448698315,"relY":70.59724349157733}},{"time":5078,"name":"pointermove","value":{"relX":72.74119448698315,"relY":70.59724349157733}},{"time":5086,"name":"pointermove","value":{"relX":72.89433384379785,"relY":70.75038284839204}},{"time":5094,"name":"pointermove","value":{"relX":73.04747320061256,"relY":71.05666156202145}},{"time":5102,"name":"pointermove","value":{"relX":73.20061255742726,"relY":71.20980091883614}},{"time":5110,"name":"pointermove","value":{"relX":73.35375191424195,"relY":71.36294027565084}},{"time":5118,"name":"pointermove","value":{"relX":73.50689127105666,"relY":71.51607963246555}},{"time":5126,"name":"pointermove","value":{"relX":73.66003062787136,"relY":71.82235834609494}},{"time":5134,"name":"pointermove","value":{"relX":73.81316998468607,"relY":71.97549770290965}},{"time":5142,"name":"pointermove","value":{"relX":73.96630934150078,"relY":72.12863705972435}},{"time":5150,"name":"pointermove","value":{"relX":74.11944869831547,"relY":72.28177641653905}},{"time":5159,"name":"pointermove","value":{"relX":74.27258805513017,"relY":72.58805513016846}},{"time":5166,"name":"pointermove","value":{"relX":74.42572741194488,"relY":72.74119448698315}},{"time":5174,"name":"pointermove","value":{"relX":74.42572741194488,"relY":72.74119448698315}},{"time":5183,"name":"pointermove","value":{"relX":74.57886676875957,"relY":73.04747320061256}},{"time":5190,"name":"pointermove","value":{"relX":74.73200612557427,"relY":73.04747320061256}},{"time":5198,"name":"pointermove","value":{"relX":74.88514548238896,"relY":73.20061255742726}},{"time":5206,"name":"pointermove","value":{"relX":74.88514548238896,"relY":73.35375191424195}},{"time":5215,"name":"pointermove","value":{"relX":75.19142419601837,"relY":73.50689127105666}},{"time":5223,"name":"pointermove","value":{"relX":75.19142419601837,"relY":73.66003062787136}},{"time":5231,"name":"pointermove","value":{"relX":75.34456355283308,"relY":73.81316998468607}},{"time":5238,"name":"pointermove","value":{"relX":75.49770290964778,"relY":73.96630934150078}},{"time":5246,"name":"pointermove","value":{"relX":75.65084226646248,"relY":74.27258805513017}},{"time":5254,"name":"pointermove","value":{"relX":75.95712098009189,"relY":74.42572741194488}},{"time":5262,"name":"pointermove","value":{"relX":76.11026033690659,"relY":74.57886676875957}},{"time":5270,"name":"pointermove","value":{"relX":76.26339969372128,"relY":74.73200612557427}},{"time":5278,"name":"pointermove","value":{"relX":76.41653905053599,"relY":75.03828483920367}},{"time":5287,"name":"pointermove","value":{"relX":76.5696784073507,"relY":75.19142419601837}},{"time":5295,"name":"pointermove","value":{"relX":76.72281776416538,"relY":75.19142419601837}},{"time":5302,"name":"pointermove","value":{"relX":76.87595712098009,"relY":75.49770290964778}},{"time":5310,"name":"pointermove","value":{"relX":77.0290964777948,"relY":75.49770290964778}},{"time":5319,"name":"pointermove","value":{"relX":77.18223583460949,"relY":75.65084226646248}},{"time":5327,"name":"pointermove","value":{"relX":77.33537519142419,"relY":75.80398162327718}},{"time":5335,"name":"pointermove","value":{"relX":77.33537519142419,"relY":75.95712098009189}},{"time":5343,"name":"pointermove","value":{"relX":77.4885145482389,"relY":76.11026033690659}},{"time":5351,"name":"pointermove","value":{"relX":77.6416539050536,"relY":76.11026033690659}},{"time":5359,"name":"pointermove","value":{"relX":77.7947932618683,"relY":76.26339969372128}},{"time":5366,"name":"pointermove","value":{"relX":77.947932618683,"relY":76.41653905053599}},{"time":5374,"name":"pointermove","value":{"relX":78.1010719754977,"relY":76.5696784073507}},{"time":5383,"name":"pointermove","value":{"relX":78.25421133231241,"relY":76.72281776416538}},{"time":5391,"name":"pointermove","value":{"relX":78.40735068912711,"relY":76.87595712098009}},{"time":5398,"name":"pointermove","value":{"relX":78.5604900459418,"relY":77.0290964777948}},{"time":5407,"name":"pointermove","value":{"relX":78.71362940275651,"relY":77.18223583460949}},{"time":5416,"name":"pointermove","value":{"relX":78.86676875957122,"relY":77.33537519142419}},{"time":5424,"name":"pointermove","value":{"relX":79.0199081163859,"relY":77.4885145482389}},{"time":5432,"name":"pointermove","value":{"relX":79.17304747320061,"relY":77.6416539050536}},{"time":5440,"name":"pointermove","value":{"relX":79.32618683001532,"relY":77.7947932618683}},{"time":5449,"name":"pointermove","value":{"relX":79.63246554364471,"relY":77.947932618683}},{"time":5456,"name":"pointermove","value":{"relX":79.63246554364471,"relY":78.1010719754977}},{"time":5464,"name":"pointermove","value":{"relX":79.78560490045942,"relY":78.1010719754977}},{"time":5472,"name":"pointermove","value":{"relX":79.93874425727412,"relY":78.25421133231241}},{"time":5480,"name":"pointermove","value":{"relX":80.09188361408881,"relY":78.40735068912711}},{"time":5488,"name":"pointermove","value":{"relX":80.24502297090352,"relY":78.5604900459418}},{"time":5496,"name":"pointermove","value":{"relX":80.39816232771823,"relY":78.71362940275651}},{"time":5504,"name":"pointermove","value":{"relX":80.39816232771823,"relY":78.71362940275651}},{"time":5513,"name":"pointermove","value":{"relX":80.70444104134764,"relY":78.86676875957122}},{"time":5520,"name":"pointermove","value":{"relX":80.70444104134764,"relY":79.0199081163859}},{"time":5528,"name":"pointermove","value":{"relX":80.85758039816233,"relY":79.17304747320061}},{"time":5537,"name":"pointermove","value":{"relX":81.01071975497703,"relY":79.32618683001532}},{"time":5545,"name":"pointermove","value":{"relX":81.16385911179172,"relY":79.47932618683001}},{"time":5552,"name":"pointermove","value":{"relX":81.31699846860643,"relY":79.47932618683001}},{"time":5560,"name":"pointermove","value":{"relX":81.31699846860643,"relY":79.63246554364471}},{"time":5568,"name":"pointermove","value":{"relX":81.47013782542113,"relY":79.78560490045942}},{"time":5577,"name":"pointermove","value":{"relX":81.62327718223582,"relY":79.93874425727412}},{"time":5584,"name":"pointermove","value":{"relX":81.62327718223582,"relY":79.93874425727412}},{"time":5592,"name":"pointermove","value":{"relX":81.77641653905053,"relY":80.09188361408881}},{"time":5600,"name":"pointermove","value":{"relX":81.92955589586524,"relY":80.24502297090352}},{"time":5609,"name":"pointermove","value":{"relX":82.08269525267994,"relY":80.39816232771823}},{"time":5616,"name":"pointermove","value":{"relX":82.08269525267994,"relY":80.55130168453293}},{"time":5624,"name":"pointermove","value":{"relX":82.23583460949465,"relY":80.55130168453293}},{"time":5632,"name":"pointermove","value":{"relX":82.23583460949465,"relY":80.70444104134764}},{"time":5641,"name":"pointermove","value":{"relX":82.38897396630934,"relY":80.85758039816233}},{"time":5648,"name":"pointermove","value":{"relX":82.54211332312404,"relY":81.01071975497703}},{"time":5656,"name":"pointermove","value":{"relX":82.54211332312404,"relY":81.01071975497703}},{"time":5665,"name":"pointermove","value":{"relX":82.69525267993875,"relY":81.16385911179172}},{"time":5673,"name":"pointermove","value":{"relX":82.69525267993875,"relY":81.31699846860643}},{"time":5680,"name":"pointermove","value":{"relX":82.69525267993875,"relY":81.31699846860643}},{"time":5688,"name":"pointermove","value":{"relX":82.84839203675345,"relY":81.47013782542113}},{"time":5696,"name":"pointermove","value":{"relX":83.00153139356816,"relY":81.47013782542113}},{"time":5704,"name":"pointermove","value":{"relX":83.00153139356816,"relY":81.62327718223582}},{"time":5712,"name":"pointermove","value":{"relX":83.00153139356816,"relY":81.77641653905053}},{"time":5720,"name":"pointermove","value":{"relX":83.15467075038285,"relY":81.77641653905053}},{"time":5729,"name":"pointermove","value":{"relX":83.15467075038285,"relY":81.92955589586524}},{"time":5736,"name":"pointermove","value":{"relX":83.30781010719755,"relY":82.08269525267994}},{"time":5744,"name":"pointermove","value":{"relX":83.30781010719755,"relY":82.08269525267994}},{"time":5752,"name":"pointermove","value":{"relX":83.30781010719755,"relY":82.23583460949465}},{"time":5760,"name":"pointermove","value":{"relX":83.46094946401224,"relY":82.23583460949465}},{"time":5769,"name":"pointermove","value":{"relX":83.46094946401224,"relY":82.38897396630934}},{"time":5776,"name":"pointermove","value":{"relX":83.61408882082695,"relY":82.54211332312404}},{"time":5784,"name":"pointermove","value":{"relX":83.76722817764166,"relY":82.54211332312404}},{"time":5803,"name":"pointermove","value":{"relX":83.92036753445635,"relY":82.84839203675345}},{"time":5808,"name":"pointermove","value":{"relX":84.07350689127105,"relY":82.84839203675345}},{"time":5816,"name":"pointermove","value":{"relX":84.22664624808576,"relY":83.00153139356816}},{"time":5824,"name":"pointermove","value":{"relX":84.22664624808576,"relY":83.15467075038285}},{"time":5832,"name":"pointermove","value":{"relX":84.37978560490046,"relY":83.30781010719755}},{"time":5841,"name":"pointermove","value":{"relX":84.53292496171517,"relY":83.46094946401224}},{"time":5849,"name":"pointermove","value":{"relX":84.53292496171517,"relY":83.61408882082695}},{"time":5856,"name":"pointermove","value":{"relX":84.68606431852986,"relY":83.76722817764166}},{"time":5864,"name":"pointermove","value":{"relX":84.83920367534456,"relY":83.92036753445635}},{"time":5873,"name":"pointermove","value":{"relX":84.99234303215927,"relY":84.07350689127105}},{"time":5881,"name":"pointermove","value":{"relX":85.14548238897397,"relY":84.37978560490046}},{"time":5888,"name":"pointermove","value":{"relX":85.45176110260337,"relY":84.37978560490046}},{"time":5896,"name":"pointermove","value":{"relX":85.45176110260337,"relY":84.68606431852986}},{"time":5905,"name":"pointermove","value":{"relX":85.75803981623277,"relY":84.99234303215927}},{"time":5912,"name":"pointermove","value":{"relX":85.91117917304747,"relY":84.99234303215927}},{"time":5920,"name":"pointermove","value":{"relX":86.06431852986218,"relY":85.29862174578867}},{"time":5928,"name":"pointermove","value":{"relX":86.21745788667687,"relY":85.45176110260337}},{"time":5936,"name":"pointermove","value":{"relX":86.37059724349157,"relY":85.60490045941806}},{"time":5944,"name":"pointermove","value":{"relX":86.37059724349157,"relY":85.91117917304747}},{"time":5952,"name":"pointermove","value":{"relX":86.52373660030628,"relY":85.91117917304747}},{"time":5960,"name":"pointermove","value":{"relX":86.67687595712098,"relY":86.06431852986218}},{"time":5969,"name":"pointermove","value":{"relX":86.67687595712098,"relY":86.21745788667687}},{"time":5977,"name":"pointermove","value":{"relX":86.67687595712098,"relY":86.37059724349157}},{"time":5984,"name":"pointermove","value":{"relX":86.83001531393569,"relY":86.37059724349157}},{"time":5993,"name":"pointermove","value":{"relX":86.83001531393569,"relY":86.37059724349157}},{"time":6001,"name":"pointermove","value":{"relX":86.83001531393569,"relY":86.37059724349157}},{"time":6008,"name":"pointermove","value":{"relX":86.98315467075038,"relY":86.52373660030628}},{"time":6016,"name":"pointermove","value":{"relX":86.98315467075038,"relY":86.67687595712098}},{"time":6024,"name":"pointermove","value":{"relX":87.13629402756509,"relY":86.67687595712098}},{"time":6032,"name":"pointermove","value":{"relX":87.13629402756509,"relY":86.83001531393569}},{"time":6040,"name":"pointermove","value":{"relX":87.28943338437979,"relY":86.83001531393569}},{"time":6049,"name":"pointermove","value":{"relX":87.28943338437979,"relY":86.98315467075038}},{"time":6057,"name":"pointermove","value":{"relX":87.4425727411945,"relY":86.98315467075038}},{"time":6064,"name":"pointermove","value":{"relX":87.59571209800919,"relY":87.13629402756509}},{"time":6072,"name":"pointermove","value":{"relX":87.59571209800919,"relY":87.13629402756509}},{"time":6080,"name":"pointermove","value":{"relX":87.59571209800919,"relY":87.28943338437979}},{"time":6088,"name":"pointermove","value":{"relX":87.74885145482389,"relY":87.28943338437979}},{"time":6096,"name":"pointermove","value":{"relX":87.74885145482389,"relY":87.4425727411945}},{"time":6104,"name":"pointermove","value":{"relX":87.90199081163858,"relY":87.4425727411945}},{"time":6112,"name":"pointermove","value":{"relX":87.90199081163858,"relY":87.59571209800919}},{"time":6120,"name":"pointermove","value":{"relX":88.208269525268,"relY":87.74885145482389}},{"time":6128,"name":"pointermove","value":{"relX":88.208269525268,"relY":87.74885145482389}},{"time":6136,"name":"pointermove","value":{"relX":88.51454823889739,"relY":87.90199081163858}},{"time":6144,"name":"pointermove","value":{"relX":88.6676875957121,"relY":88.05513016845329}},{"time":6152,"name":"pointermove","value":{"relX":88.8208269525268,"relY":88.05513016845329}},{"time":6160,"name":"pointermove","value":{"relX":88.9739663093415,"relY":88.208269525268}},{"time":6168,"name":"pointermove","value":{"relX":89.1271056661562,"relY":88.3614088820827}},{"time":6176,"name":"pointermove","value":{"relX":89.2802450229709,"relY":88.51454823889739}},{"time":6184,"name":"pointermove","value":{"relX":89.43338437978561,"relY":88.6676875957121}},{"time":6192,"name":"pointermove","value":{"relX":89.73966309341502,"relY":88.8208269525268}},{"time":6201,"name":"pointermove","value":{"relX":89.73966309341502,"relY":88.9739663093415}},{"time":6209,"name":"pointermove","value":{"relX":89.89280245022971,"relY":89.1271056661562}},{"time":6216,"name":"pointermove","value":{"relX":90.0459418070444,"relY":89.1271056661562}},{"time":6224,"name":"pointermove","value":{"relX":90.1990811638591,"relY":89.2802450229709}},{"time":6232,"name":"pointermove","value":{"relX":90.35222052067381,"relY":89.2802450229709}},{"time":6240,"name":"pointermove","value":{"relX":90.35222052067381,"relY":89.2802450229709}},{"time":6248,"name":"pointermove","value":{"relX":90.35222052067381,"relY":89.43338437978561}},{"time":6256,"name":"pointermove","value":{"relX":90.50535987748852,"relY":89.43338437978561}},{"time":6264,"name":"pointermove","value":{"relX":90.50535987748852,"relY":89.43338437978561}},{"time":6272,"name":"pointermove","value":{"relX":90.6584992343032,"relY":89.43338437978561}},{"time":6280,"name":"pointermove","value":{"relX":90.6584992343032,"relY":89.58652373660031}},{"time":6289,"name":"pointermove","value":{"relX":90.6584992343032,"relY":89.58652373660031}},{"time":6297,"name":"pointermove","value":{"relX":90.81163859111791,"relY":89.58652373660031}},{"time":6306,"name":"pointermove","value":{"relX":90.81163859111791,"relY":89.58652373660031}},{"time":6312,"name":"pointermove","value":{"relX":90.81163859111791,"relY":89.73966309341502}},{"time":6321,"name":"pointermove","value":{"relX":90.96477794793262,"relY":89.73966309341502}},{"time":6329,"name":"pointermove","value":{"relX":90.96477794793262,"relY":89.73966309341502}},{"time":6336,"name":"pointermove","value":{"relX":90.96477794793262,"relY":89.89280245022971}},{"time":6344,"name":"pointermove","value":{"relX":91.11791730474732,"relY":89.89280245022971}},{"time":6352,"name":"pointermove","value":{"relX":91.11791730474732,"relY":89.89280245022971}},{"time":6360,"name":"pointermove","value":{"relX":91.27105666156203,"relY":90.0459418070444}},{"time":6368,"name":"pointermove","value":{"relX":91.27105666156203,"relY":90.0459418070444}},{"time":6376,"name":"pointermove","value":{"relX":91.42419601837672,"relY":90.0459418070444}},{"time":6385,"name":"pointermove","value":{"relX":91.42419601837672,"relY":90.1990811638591}},{"time":6393,"name":"pointermove","value":{"relX":91.42419601837672,"relY":90.1990811638591}},{"time":6400,"name":"pointermove","value":{"relX":91.57733537519142,"relY":90.1990811638591}},{"time":6408,"name":"pointermove","value":{"relX":91.57733537519142,"relY":90.35222052067381}},{"time":6416,"name":"pointermove","value":{"relX":91.73047473200613,"relY":90.35222052067381}},{"time":6424,"name":"pointermove","value":{"relX":91.73047473200613,"relY":90.35222052067381}},{"time":6432,"name":"pointermove","value":{"relX":91.88361408882083,"relY":90.50535987748852}},{"time":6440,"name":"pointermove","value":{"relX":91.88361408882083,"relY":90.50535987748852}},{"time":6448,"name":"pointermove","value":{"relX":92.03675344563553,"relY":90.6584992343032}},{"time":6458,"name":"pointermove","value":{"relX":92.03675344563553,"relY":90.6584992343032}},{"time":6466,"name":"pointermove","value":{"relX":92.18989280245023,"relY":90.81163859111791}},{"time":6474,"name":"pointermove","value":{"relX":92.34303215926492,"relY":90.81163859111791}},{"time":6483,"name":"pointermove","value":{"relX":92.49617151607963,"relY":91.11791730474732}},{"time":6490,"name":"pointermove","value":{"relX":92.49617151607963,"relY":91.11791730474732}},{"time":6498,"name":"pointermove","value":{"relX":92.64931087289433,"relY":91.27105666156203}},{"time":6506,"name":"pointermove","value":{"relX":92.80245022970904,"relY":91.42419601837672}},{"time":6515,"name":"pointermove","value":{"relX":92.80245022970904,"relY":91.57733537519142}},{"time":6523,"name":"pointermove","value":{"relX":92.95558958652373,"relY":91.73047473200613}},{"time":6530,"name":"pointermove","value":{"relX":93.10872894333843,"relY":92.03675344563553}},{"time":6538,"name":"pointermove","value":{"relX":93.26186830015314,"relY":92.03675344563553}},{"time":6546,"name":"pointermove","value":{"relX":93.26186830015314,"relY":92.18989280245023}},{"time":6554,"name":"pointermove","value":{"relX":93.41500765696784,"relY":92.34303215926492}},{"time":6562,"name":"pointermove","value":{"relX":93.41500765696784,"relY":92.34303215926492}},{"time":6570,"name":"pointermove","value":{"relX":93.41500765696784,"relY":92.49617151607963}},{"time":6578,"name":"pointermove","value":{"relX":93.56814701378255,"relY":92.49617151607963}},{"time":6587,"name":"pointermove","value":{"relX":93.56814701378255,"relY":92.64931087289433}},{"time":6595,"name":"pointermove","value":{"relX":93.56814701378255,"relY":92.80245022970904}},{"time":6602,"name":"pointermove","value":{"relX":93.56814701378255,"relY":92.80245022970904}},{"time":6610,"name":"pointermove","value":{"relX":93.72128637059724,"relY":92.80245022970904}},{"time":6618,"name":"pointermove","value":{"relX":93.72128637059724,"relY":92.80245022970904}},{"time":6626,"name":"pointermove","value":{"relX":93.72128637059724,"relY":92.95558958652373}},{"time":6634,"name":"pointermove","value":{"relX":93.72128637059724,"relY":92.95558958652373}},{"time":6642,"name":"pointermove","value":{"relX":93.87442572741195,"relY":92.95558958652373}},{"time":6650,"name":"pointermove","value":{"relX":93.87442572741195,"relY":93.10872894333843}},{"time":6658,"name":"pointermove","value":{"relX":93.87442572741195,"relY":93.10872894333843}},{"time":6666,"name":"pointermove","value":{"relX":94.02756508422665,"relY":93.26186830015314}},{"time":6674,"name":"pointermove","value":{"relX":94.02756508422665,"relY":93.41500765696784}},{"time":6682,"name":"pointermove","value":{"relX":94.02756508422665,"relY":93.41500765696784}},{"time":6690,"name":"pointermove","value":{"relX":94.18070444104136,"relY":93.41500765696784}},{"time":6698,"name":"pointermove","value":{"relX":94.18070444104136,"relY":93.41500765696784}},{"time":6706,"name":"pointermove","value":{"relX":94.18070444104136,"relY":93.56814701378255}},{"time":6715,"name":"pointermove","value":{"relX":94.33384379785605,"relY":93.56814701378255}},{"time":6723,"name":"pointermove","value":{"relX":94.33384379785605,"relY":93.56814701378255}},{"time":6730,"name":"pointermove","value":{"relX":94.33384379785605,"relY":93.72128637059724}},{"time":6738,"name":"pointermove","value":{"relX":94.48698315467074,"relY":93.72128637059724}},{"time":6747,"name":"pointermove","value":{"relX":94.48698315467074,"relY":93.72128637059724}},{"time":6754,"name":"pointermove","value":{"relX":94.48698315467074,"relY":93.72128637059724}},{"time":6763,"name":"pointermove","value":{"relX":94.48698315467074,"relY":93.87442572741195}},{"time":6770,"name":"pointermove","value":{"relX":94.64012251148544,"relY":93.87442572741195}},{"time":6779,"name":"pointermove","value":{"relX":94.64012251148544,"relY":93.87442572741195}},{"time":6787,"name":"pointermove","value":{"relX":94.64012251148544,"relY":94.02756508422665}},{"time":6794,"name":"pointermove","value":{"relX":94.79326186830015,"relY":94.02756508422665}},{"time":6802,"name":"pointermove","value":{"relX":94.94640122511485,"relY":94.02756508422665}},{"time":6810,"name":"pointermove","value":{"relX":94.94640122511485,"relY":94.18070444104136}},{"time":6818,"name":"pointermove","value":{"relX":95.09954058192956,"relY":94.18070444104136}},{"time":6826,"name":"pointermove","value":{"relX":95.09954058192956,"relY":94.18070444104136}},{"time":6834,"name":"pointermove","value":{"relX":95.25267993874425,"relY":94.33384379785605}},{"time":6843,"name":"pointermove","value":{"relX":95.25267993874425,"relY":94.33384379785605}},{"time":6851,"name":"pointermove","value":{"relX":95.40581929555896,"relY":94.33384379785605}},{"time":6858,"name":"pointermove","value":{"relX":95.40581929555896,"relY":94.33384379785605}},{"time":6866,"name":"pointermove","value":{"relX":95.40581929555896,"relY":94.33384379785605}},{"time":6874,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.33384379785605}},{"time":6914,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.48698315467074}},{"time":6930,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.48698315467074}},{"time":6938,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.48698315467074}},{"time":6946,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.48698315467074}},{"time":6954,"name":"pointermove","value":{"relX":95.55895865237366,"relY":94.64012251148544}},{"time":6962,"name":"pointermove","value":{"relX":95.71209800918837,"relY":94.64012251148544}},{"time":6970,"name":"pointermove","value":{"relX":95.71209800918837,"relY":94.64012251148544}},{"time":7019,"name":"pointermove","value":{"relX":95.71209800918837,"relY":94.64012251148544}},{"time":7026,"name":"pointermove","value":{"relX":95.71209800918837,"relY":94.64012251148544}},{"time":7042,"name":"pointermove","value":{"relX":95.71209800918837,"relY":94.79326186830015}},{"time":7074,"name":"pointermove","value":{"relX":95.86523736600306,"relY":94.79326186830015}},{"time":7130,"name":"pointermove","value":{"relX":95.86523736600306,"relY":94.79326186830015}},{"time":8740,"name":"pointerup","value":{"relX":95.86523736600306,"relY":94.79326186830015}}]);
+webAudioXML.addSequence("_storedGesture", [
+  {
+    time: 0,
+    name: "pointerdown",
+    value: { relX: 3.4482758620689653, relY: 2.8017241379310347 },
+  },
+  {
+    time: 774,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 2.8017241379310347 },
+  },
+  {
+    time: 782,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 2.8017241379310347 },
+  },
+  {
+    time: 788,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 3.0172413793103448 },
+  },
+  {
+    time: 797,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 3.0172413793103448 },
+  },
+  {
+    time: 804,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 3.2327586206896552 },
+  },
+  {
+    time: 812,
+    name: "pointermove",
+    value: { relX: 3.4482758620689653, relY: 3.2327586206896552 },
+  },
+  {
+    time: 820,
+    name: "pointermove",
+    value: { relX: 3.6637931034482754, relY: 3.4482758620689653 },
+  },
+  {
+    time: 829,
+    name: "pointermove",
+    value: { relX: 3.6637931034482754, relY: 3.4482758620689653 },
+  },
+  {
+    time: 837,
+    name: "pointermove",
+    value: { relX: 3.6637931034482754, relY: 3.4482758620689653 },
+  },
+  {
+    time: 844,
+    name: "pointermove",
+    value: { relX: 3.6637931034482754, relY: 3.6637931034482754 },
+  },
+  {
+    time: 852,
+    name: "pointermove",
+    value: { relX: 3.6637931034482754, relY: 3.6637931034482754 },
+  },
+  {
+    time: 861,
+    name: "pointermove",
+    value: { relX: 3.8793103448275863, relY: 3.8793103448275863 },
+  },
+  {
+    time: 867,
+    name: "pointermove",
+    value: { relX: 3.8793103448275863, relY: 3.8793103448275863 },
+  },
+  {
+    time: 875,
+    name: "pointermove",
+    value: { relX: 3.8793103448275863, relY: 4.094827586206897 },
+  },
+  {
+    time: 882,
+    name: "pointermove",
+    value: { relX: 3.8793103448275863, relY: 4.310344827586207 },
+  },
+  {
+    time: 890,
+    name: "pointermove",
+    value: { relX: 4.094827586206897, relY: 4.310344827586207 },
+  },
+  {
+    time: 899,
+    name: "pointermove",
+    value: { relX: 4.094827586206897, relY: 4.525862068965517 },
+  },
+  {
+    time: 907,
+    name: "pointermove",
+    value: { relX: 4.094827586206897, relY: 4.741379310344827 },
+  },
+  {
+    time: 914,
+    name: "pointermove",
+    value: { relX: 4.310344827586207, relY: 4.741379310344827 },
+  },
+  {
+    time: 922,
+    name: "pointermove",
+    value: { relX: 4.310344827586207, relY: 4.956896551724138 },
+  },
+  {
+    time: 930,
+    name: "pointermove",
+    value: { relX: 4.310344827586207, relY: 5.172413793103448 },
+  },
+  {
+    time: 939,
+    name: "pointermove",
+    value: { relX: 4.525862068965517, relY: 5.172413793103448 },
+  },
+  {
+    time: 945,
+    name: "pointermove",
+    value: { relX: 4.525862068965517, relY: 5.387931034482758 },
+  },
+  {
+    time: 953,
+    name: "pointermove",
+    value: { relX: 4.741379310344827, relY: 5.603448275862069 },
+  },
+  {
+    time: 960,
+    name: "pointermove",
+    value: { relX: 4.741379310344827, relY: 5.818965517241379 },
+  },
+  {
+    time: 968,
+    name: "pointermove",
+    value: { relX: 4.956896551724138, relY: 5.818965517241379 },
+  },
+  {
+    time: 977,
+    name: "pointermove",
+    value: { relX: 4.956896551724138, relY: 6.0344827586206895 },
+  },
+  {
+    time: 984,
+    name: "pointermove",
+    value: { relX: 4.956896551724138, relY: 6.25 },
+  },
+  {
+    time: 992,
+    name: "pointermove",
+    value: { relX: 5.172413793103448, relY: 6.25 },
+  },
+  {
+    time: 1000,
+    name: "pointermove",
+    value: { relX: 5.172413793103448, relY: 6.4655172413793105 },
+  },
+  {
+    time: 1009,
+    name: "pointermove",
+    value: { relX: 5.387931034482758, relY: 6.4655172413793105 },
+  },
+  {
+    time: 1017,
+    name: "pointermove",
+    value: { relX: 5.387931034482758, relY: 6.68103448275862 },
+  },
+  {
+    time: 1023,
+    name: "pointermove",
+    value: { relX: 5.603448275862069, relY: 6.68103448275862 },
+  },
+  {
+    time: 1030,
+    name: "pointermove",
+    value: { relX: 5.603448275862069, relY: 6.896551724137931 },
+  },
+  {
+    time: 1038,
+    name: "pointermove",
+    value: { relX: 5.818965517241379, relY: 7.112068965517242 },
+  },
+  {
+    time: 1046,
+    name: "pointermove",
+    value: { relX: 5.818965517241379, relY: 7.112068965517242 },
+  },
+  {
+    time: 1055,
+    name: "pointermove",
+    value: { relX: 5.818965517241379, relY: 7.327586206896551 },
+  },
+  {
+    time: 1062,
+    name: "pointermove",
+    value: { relX: 6.0344827586206895, relY: 7.327586206896551 },
+  },
+  {
+    time: 1070,
+    name: "pointermove",
+    value: { relX: 6.0344827586206895, relY: 7.543103448275862 },
+  },
+  {
+    time: 1078,
+    name: "pointermove",
+    value: { relX: 6.25, relY: 7.758620689655173 },
+  },
+  {
+    time: 1087,
+    name: "pointermove",
+    value: { relX: 6.25, relY: 7.758620689655173 },
+  },
+  {
+    time: 1094,
+    name: "pointermove",
+    value: { relX: 6.25, relY: 7.974137931034483 },
+  },
+  {
+    time: 1102,
+    name: "pointermove",
+    value: { relX: 6.4655172413793105, relY: 7.974137931034483 },
+  },
+  {
+    time: 1108,
+    name: "pointermove",
+    value: { relX: 6.4655172413793105, relY: 7.974137931034483 },
+  },
+  {
+    time: 1116,
+    name: "pointermove",
+    value: { relX: 6.4655172413793105, relY: 8.189655172413794 },
+  },
+  {
+    time: 1125,
+    name: "pointermove",
+    value: { relX: 6.68103448275862, relY: 8.189655172413794 },
+  },
+  {
+    time: 1133,
+    name: "pointermove",
+    value: { relX: 6.68103448275862, relY: 8.405172413793103 },
+  },
+  {
+    time: 1140,
+    name: "pointermove",
+    value: { relX: 6.68103448275862, relY: 8.405172413793103 },
+  },
+  {
+    time: 1148,
+    name: "pointermove",
+    value: { relX: 6.896551724137931, relY: 8.405172413793103 },
+  },
+  {
+    time: 1157,
+    name: "pointermove",
+    value: { relX: 6.896551724137931, relY: 8.620689655172415 },
+  },
+  {
+    time: 1165,
+    name: "pointermove",
+    value: { relX: 6.896551724137931, relY: 8.620689655172415 },
+  },
+  {
+    time: 1172,
+    name: "pointermove",
+    value: { relX: 6.896551724137931, relY: 8.620689655172415 },
+  },
+  {
+    time: 1180,
+    name: "pointermove",
+    value: { relX: 7.112068965517242, relY: 8.836206896551724 },
+  },
+  {
+    time: 1186,
+    name: "pointermove",
+    value: { relX: 7.112068965517242, relY: 8.836206896551724 },
+  },
+  {
+    time: 1194,
+    name: "pointermove",
+    value: { relX: 7.112068965517242, relY: 8.836206896551724 },
+  },
+  {
+    time: 1203,
+    name: "pointermove",
+    value: { relX: 7.112068965517242, relY: 9.051724137931034 },
+  },
+  {
+    time: 1210,
+    name: "pointermove",
+    value: { relX: 7.327586206896551, relY: 9.051724137931034 },
+  },
+  {
+    time: 1218,
+    name: "pointermove",
+    value: { relX: 7.327586206896551, relY: 9.051724137931034 },
+  },
+  {
+    time: 1226,
+    name: "pointermove",
+    value: { relX: 7.327586206896551, relY: 9.051724137931034 },
+  },
+  {
+    time: 1235,
+    name: "pointermove",
+    value: { relX: 7.327586206896551, relY: 9.267241379310345 },
+  },
+  {
+    time: 1242,
+    name: "pointermove",
+    value: { relX: 7.327586206896551, relY: 9.267241379310345 },
+  },
+  {
+    time: 1258,
+    name: "pointermove",
+    value: { relX: 7.543103448275862, relY: 9.267241379310345 },
+  },
+  {
+    time: 1273,
+    name: "pointermove",
+    value: { relX: 7.543103448275862, relY: 9.482758620689655 },
+  },
+  {
+    time: 1280,
+    name: "pointermove",
+    value: { relX: 7.543103448275862, relY: 9.482758620689655 },
+  },
+  {
+    time: 1288,
+    name: "pointermove",
+    value: { relX: 7.543103448275862, relY: 9.482758620689655 },
+  },
+  {
+    time: 1296,
+    name: "pointermove",
+    value: { relX: 7.543103448275862, relY: 9.482758620689655 },
+  },
+  {
+    time: 1305,
+    name: "pointermove",
+    value: { relX: 7.758620689655173, relY: 9.698275862068966 },
+  },
+  {
+    time: 1312,
+    name: "pointermove",
+    value: { relX: 7.758620689655173, relY: 9.698275862068966 },
+  },
+  {
+    time: 1320,
+    name: "pointermove",
+    value: { relX: 7.758620689655173, relY: 9.698275862068966 },
+  },
+  {
+    time: 1328,
+    name: "pointermove",
+    value: { relX: 7.758620689655173, relY: 9.698275862068966 },
+  },
+  {
+    time: 1337,
+    name: "pointermove",
+    value: { relX: 7.758620689655173, relY: 9.913793103448276 },
+  },
+  {
+    time: 1342,
+    name: "pointermove",
+    value: { relX: 7.974137931034483, relY: 9.913793103448276 },
+  },
+  {
+    time: 1351,
+    name: "pointermove",
+    value: { relX: 7.974137931034483, relY: 9.913793103448276 },
+  },
+  {
+    time: 1358,
+    name: "pointermove",
+    value: { relX: 7.974137931034483, relY: 10.129310344827585 },
+  },
+  {
+    time: 1366,
+    name: "pointermove",
+    value: { relX: 8.189655172413794, relY: 10.129310344827585 },
+  },
+  {
+    time: 1374,
+    name: "pointermove",
+    value: { relX: 8.189655172413794, relY: 10.129310344827585 },
+  },
+  {
+    time: 1383,
+    name: "pointermove",
+    value: { relX: 8.189655172413794, relY: 10.344827586206897 },
+  },
+  {
+    time: 1390,
+    name: "pointermove",
+    value: { relX: 8.189655172413794, relY: 10.344827586206897 },
+  },
+  {
+    time: 1398,
+    name: "pointermove",
+    value: { relX: 8.405172413793103, relY: 10.344827586206897 },
+  },
+  {
+    time: 1407,
+    name: "pointermove",
+    value: { relX: 8.405172413793103, relY: 10.560344827586206 },
+  },
+  {
+    time: 1415,
+    name: "pointermove",
+    value: { relX: 8.405172413793103, relY: 10.560344827586206 },
+  },
+  {
+    time: 1421,
+    name: "pointermove",
+    value: { relX: 8.620689655172415, relY: 10.560344827586206 },
+  },
+  {
+    time: 1428,
+    name: "pointermove",
+    value: { relX: 8.620689655172415, relY: 10.775862068965516 },
+  },
+  {
+    time: 1436,
+    name: "pointermove",
+    value: { relX: 8.620689655172415, relY: 10.775862068965516 },
+  },
+  {
+    time: 1444,
+    name: "pointermove",
+    value: { relX: 8.836206896551724, relY: 10.991379310344827 },
+  },
+  {
+    time: 1453,
+    name: "pointermove",
+    value: { relX: 8.836206896551724, relY: 10.991379310344827 },
+  },
+  {
+    time: 1461,
+    name: "pointermove",
+    value: { relX: 9.051724137931034, relY: 11.206896551724139 },
+  },
+  {
+    time: 1468,
+    name: "pointermove",
+    value: { relX: 9.051724137931034, relY: 11.206896551724139 },
+  },
+  {
+    time: 1476,
+    name: "pointermove",
+    value: { relX: 9.051724137931034, relY: 11.206896551724139 },
+  },
+  {
+    time: 1485,
+    name: "pointermove",
+    value: { relX: 9.267241379310345, relY: 11.422413793103448 },
+  },
+  {
+    time: 1493,
+    name: "pointermove",
+    value: { relX: 9.267241379310345, relY: 11.422413793103448 },
+  },
+  {
+    time: 1499,
+    name: "pointermove",
+    value: { relX: 9.482758620689655, relY: 11.637931034482758 },
+  },
+  {
+    time: 1506,
+    name: "pointermove",
+    value: { relX: 9.482758620689655, relY: 11.637931034482758 },
+  },
+  {
+    time: 1514,
+    name: "pointermove",
+    value: { relX: 9.698275862068966, relY: 11.85344827586207 },
+  },
+  {
+    time: 1522,
+    name: "pointermove",
+    value: { relX: 9.698275862068966, relY: 11.85344827586207 },
+  },
+  {
+    time: 1531,
+    name: "pointermove",
+    value: { relX: 9.698275862068966, relY: 11.85344827586207 },
+  },
+  {
+    time: 1538,
+    name: "pointermove",
+    value: { relX: 9.913793103448276, relY: 12.068965517241379 },
+  },
+  {
+    time: 1546,
+    name: "pointermove",
+    value: { relX: 9.913793103448276, relY: 12.284482758620689 },
+  },
+  {
+    time: 1554,
+    name: "pointermove",
+    value: { relX: 10.129310344827585, relY: 12.284482758620689 },
+  },
+  {
+    time: 1563,
+    name: "pointermove",
+    value: { relX: 10.129310344827585, relY: 12.284482758620689 },
+  },
+  {
+    time: 1570,
+    name: "pointermove",
+    value: { relX: 10.129310344827585, relY: 12.284482758620689 },
+  },
+  {
+    time: 1577,
+    name: "pointermove",
+    value: { relX: 10.344827586206897, relY: 12.5 },
+  },
+  {
+    time: 1584,
+    name: "pointermove",
+    value: { relX: 10.344827586206897, relY: 12.5 },
+  },
+  {
+    time: 1592,
+    name: "pointermove",
+    value: { relX: 10.560344827586206, relY: 12.5 },
+  },
+  {
+    time: 1601,
+    name: "pointermove",
+    value: { relX: 10.560344827586206, relY: 12.71551724137931 },
+  },
+  {
+    time: 1608,
+    name: "pointermove",
+    value: { relX: 10.560344827586206, relY: 12.71551724137931 },
+  },
+  {
+    time: 1616,
+    name: "pointermove",
+    value: { relX: 10.775862068965516, relY: 12.71551724137931 },
+  },
+  {
+    time: 1624,
+    name: "pointermove",
+    value: { relX: 10.775862068965516, relY: 12.931034482758621 },
+  },
+  {
+    time: 1633,
+    name: "pointermove",
+    value: { relX: 10.775862068965516, relY: 12.931034482758621 },
+  },
+  {
+    time: 1641,
+    name: "pointermove",
+    value: { relX: 10.991379310344827, relY: 12.931034482758621 },
+  },
+  {
+    time: 1648,
+    name: "pointermove",
+    value: { relX: 10.991379310344827, relY: 13.14655172413793 },
+  },
+  {
+    time: 1656,
+    name: "pointermove",
+    value: { relX: 10.991379310344827, relY: 13.14655172413793 },
+  },
+  {
+    time: 1662,
+    name: "pointermove",
+    value: { relX: 11.206896551724139, relY: 13.14655172413793 },
+  },
+  {
+    time: 1670,
+    name: "pointermove",
+    value: { relX: 11.206896551724139, relY: 13.36206896551724 },
+  },
+  {
+    time: 1679,
+    name: "pointermove",
+    value: { relX: 11.206896551724139, relY: 13.36206896551724 },
+  },
+  {
+    time: 1686,
+    name: "pointermove",
+    value: { relX: 11.422413793103448, relY: 13.36206896551724 },
+  },
+  {
+    time: 1694,
+    name: "pointermove",
+    value: { relX: 11.422413793103448, relY: 13.577586206896552 },
+  },
+  {
+    time: 1703,
+    name: "pointermove",
+    value: { relX: 11.422413793103448, relY: 13.577586206896552 },
+  },
+  {
+    time: 1711,
+    name: "pointermove",
+    value: { relX: 11.422413793103448, relY: 13.577586206896552 },
+  },
+  {
+    time: 1718,
+    name: "pointermove",
+    value: { relX: 11.637931034482758, relY: 13.793103448275861 },
+  },
+  {
+    time: 1726,
+    name: "pointermove",
+    value: { relX: 11.637931034482758, relY: 13.793103448275861 },
+  },
+  {
+    time: 1734,
+    name: "pointermove",
+    value: { relX: 11.637931034482758, relY: 13.793103448275861 },
+  },
+  {
+    time: 1740,
+    name: "pointermove",
+    value: { relX: 11.85344827586207, relY: 14.00862068965517 },
+  },
+  {
+    time: 1749,
+    name: "pointermove",
+    value: { relX: 11.85344827586207, relY: 14.00862068965517 },
+  },
+  {
+    time: 1756,
+    name: "pointermove",
+    value: { relX: 12.068965517241379, relY: 14.00862068965517 },
+  },
+  {
+    time: 1764,
+    name: "pointermove",
+    value: { relX: 12.068965517241379, relY: 14.00862068965517 },
+  },
+  {
+    time: 1772,
+    name: "pointermove",
+    value: { relX: 12.068965517241379, relY: 14.224137931034484 },
+  },
+  {
+    time: 1781,
+    name: "pointermove",
+    value: { relX: 12.284482758620689, relY: 14.224137931034484 },
+  },
+  {
+    time: 1788,
+    name: "pointermove",
+    value: { relX: 12.284482758620689, relY: 14.224137931034484 },
+  },
+  {
+    time: 1796,
+    name: "pointermove",
+    value: { relX: 12.284482758620689, relY: 14.439655172413794 },
+  },
+  {
+    time: 1804,
+    name: "pointermove",
+    value: { relX: 12.5, relY: 14.439655172413794 },
+  },
+  {
+    time: 1813,
+    name: "pointermove",
+    value: { relX: 12.5, relY: 14.439655172413794 },
+  },
+  {
+    time: 1821,
+    name: "pointermove",
+    value: { relX: 12.5, relY: 14.439655172413794 },
+  },
+  {
+    time: 1828,
+    name: "pointermove",
+    value: { relX: 12.71551724137931, relY: 14.655172413793101 },
+  },
+  {
+    time: 1834,
+    name: "pointermove",
+    value: { relX: 12.71551724137931, relY: 14.655172413793101 },
+  },
+  {
+    time: 1842,
+    name: "pointermove",
+    value: { relX: 12.71551724137931, relY: 14.655172413793101 },
+  },
+  {
+    time: 1850,
+    name: "pointermove",
+    value: { relX: 12.931034482758621, relY: 14.870689655172415 },
+  },
+  {
+    time: 1859,
+    name: "pointermove",
+    value: { relX: 12.931034482758621, relY: 14.870689655172415 },
+  },
+  {
+    time: 1866,
+    name: "pointermove",
+    value: { relX: 12.931034482758621, relY: 14.870689655172415 },
+  },
+  {
+    time: 1874,
+    name: "pointermove",
+    value: { relX: 13.14655172413793, relY: 15.086206896551724 },
+  },
+  {
+    time: 1882,
+    name: "pointermove",
+    value: { relX: 13.14655172413793, relY: 15.086206896551724 },
+  },
+  {
+    time: 1891,
+    name: "pointermove",
+    value: { relX: 13.14655172413793, relY: 15.086206896551724 },
+  },
+  {
+    time: 1898,
+    name: "pointermove",
+    value: { relX: 13.36206896551724, relY: 15.086206896551724 },
+  },
+  {
+    time: 1906,
+    name: "pointermove",
+    value: { relX: 13.36206896551724, relY: 15.301724137931034 },
+  },
+  {
+    time: 1912,
+    name: "pointermove",
+    value: { relX: 13.577586206896552, relY: 15.301724137931034 },
+  },
+  {
+    time: 1920,
+    name: "pointermove",
+    value: { relX: 13.577586206896552, relY: 15.301724137931034 },
+  },
+  {
+    time: 1929,
+    name: "pointermove",
+    value: { relX: 13.577586206896552, relY: 15.517241379310345 },
+  },
+  {
+    time: 1937,
+    name: "pointermove",
+    value: { relX: 13.793103448275861, relY: 15.517241379310345 },
+  },
+  {
+    time: 1944,
+    name: "pointermove",
+    value: { relX: 13.793103448275861, relY: 15.517241379310345 },
+  },
+  {
+    time: 1952,
+    name: "pointermove",
+    value: { relX: 14.00862068965517, relY: 15.732758620689655 },
+  },
+  {
+    time: 1961,
+    name: "pointermove",
+    value: { relX: 14.00862068965517, relY: 15.732758620689655 },
+  },
+  {
+    time: 1969,
+    name: "pointermove",
+    value: { relX: 14.224137931034484, relY: 15.948275862068966 },
+  },
+  {
+    time: 1976,
+    name: "pointermove",
+    value: { relX: 14.224137931034484, relY: 15.948275862068966 },
+  },
+  {
+    time: 1984,
+    name: "pointermove",
+    value: { relX: 14.439655172413794, relY: 16.163793103448278 },
+  },
+  {
+    time: 1990,
+    name: "pointermove",
+    value: { relX: 14.439655172413794, relY: 16.163793103448278 },
+  },
+  {
+    time: 1998,
+    name: "pointermove",
+    value: { relX: 14.655172413793101, relY: 16.379310344827587 },
+  },
+  {
+    time: 2007,
+    name: "pointermove",
+    value: { relX: 14.870689655172415, relY: 16.379310344827587 },
+  },
+  {
+    time: 2014,
+    name: "pointermove",
+    value: { relX: 15.086206896551724, relY: 16.594827586206897 },
+  },
+  {
+    time: 2022,
+    name: "pointermove",
+    value: { relX: 15.086206896551724, relY: 16.594827586206897 },
+  },
+  {
+    time: 2030,
+    name: "pointermove",
+    value: { relX: 15.301724137931034, relY: 16.810344827586206 },
+  },
+  {
+    time: 2039,
+    name: "pointermove",
+    value: { relX: 15.301724137931034, relY: 16.810344827586206 },
+  },
+  {
+    time: 2046,
+    name: "pointermove",
+    value: { relX: 15.517241379310345, relY: 17.025862068965516 },
+  },
+  {
+    time: 2054,
+    name: "pointermove",
+    value: { relX: 15.732758620689655, relY: 17.025862068965516 },
+  },
+  {
+    time: 2062,
+    name: "pointermove",
+    value: { relX: 15.732758620689655, relY: 17.24137931034483 },
+  },
+  {
+    time: 2068,
+    name: "pointermove",
+    value: { relX: 15.948275862068966, relY: 17.24137931034483 },
+  },
+  {
+    time: 2077,
+    name: "pointermove",
+    value: { relX: 16.163793103448278, relY: 17.45689655172414 },
+  },
+  {
+    time: 2084,
+    name: "pointermove",
+    value: { relX: 16.379310344827587, relY: 17.67241379310345 },
+  },
+  {
+    time: 2092,
+    name: "pointermove",
+    value: { relX: 16.379310344827587, relY: 17.67241379310345 },
+  },
+  {
+    time: 2100,
+    name: "pointermove",
+    value: { relX: 16.594827586206897, relY: 17.887931034482758 },
+  },
+  {
+    time: 2109,
+    name: "pointermove",
+    value: { relX: 16.594827586206897, relY: 17.887931034482758 },
+  },
+  {
+    time: 2117,
+    name: "pointermove",
+    value: { relX: 16.810344827586206, relY: 18.103448275862068 },
+  },
+  {
+    time: 2124,
+    name: "pointermove",
+    value: { relX: 16.810344827586206, relY: 18.103448275862068 },
+  },
+  {
+    time: 2132,
+    name: "pointermove",
+    value: { relX: 17.025862068965516, relY: 18.318965517241377 },
+  },
+  {
+    time: 2141,
+    name: "pointermove",
+    value: { relX: 17.24137931034483, relY: 18.318965517241377 },
+  },
+  {
+    time: 2149,
+    name: "pointermove",
+    value: { relX: 17.24137931034483, relY: 18.53448275862069 },
+  },
+  {
+    time: 2154,
+    name: "pointermove",
+    value: { relX: 17.45689655172414, relY: 18.53448275862069 },
+  },
+  {
+    time: 2162,
+    name: "pointermove",
+    value: { relX: 17.45689655172414, relY: 18.75 },
+  },
+  {
+    time: 2170,
+    name: "pointermove",
+    value: { relX: 17.67241379310345, relY: 18.75 },
+  },
+  {
+    time: 2178,
+    name: "pointermove",
+    value: { relX: 17.67241379310345, relY: 18.96551724137931 },
+  },
+  {
+    time: 2187,
+    name: "pointermove",
+    value: { relX: 17.887931034482758, relY: 18.96551724137931 },
+  },
+  {
+    time: 2194,
+    name: "pointermove",
+    value: { relX: 17.887931034482758, relY: 19.181034482758623 },
+  },
+  {
+    time: 2202,
+    name: "pointermove",
+    value: { relX: 18.103448275862068, relY: 19.181034482758623 },
+  },
+  {
+    time: 2210,
+    name: "pointermove",
+    value: { relX: 18.318965517241377, relY: 19.396551724137932 },
+  },
+  {
+    time: 2219,
+    name: "pointermove",
+    value: { relX: 18.318965517241377, relY: 19.396551724137932 },
+  },
+  {
+    time: 2226,
+    name: "pointermove",
+    value: { relX: 18.53448275862069, relY: 19.612068965517242 },
+  },
+  {
+    time: 2232,
+    name: "pointermove",
+    value: { relX: 18.53448275862069, relY: 19.612068965517242 },
+  },
+  {
+    time: 2240,
+    name: "pointermove",
+    value: { relX: 18.75, relY: 19.612068965517242 },
+  },
+  {
+    time: 2248,
+    name: "pointermove",
+    value: { relX: 18.75, relY: 19.82758620689655 },
+  },
+  {
+    time: 2257,
+    name: "pointermove",
+    value: { relX: 18.96551724137931, relY: 19.82758620689655 },
+  },
+  {
+    time: 2265,
+    name: "pointermove",
+    value: { relX: 18.96551724137931, relY: 20.04310344827586 },
+  },
+  {
+    time: 2272,
+    name: "pointermove",
+    value: { relX: 19.181034482758623, relY: 20.04310344827586 },
+  },
+  {
+    time: 2280,
+    name: "pointermove",
+    value: { relX: 19.181034482758623, relY: 20.04310344827586 },
+  },
+  {
+    time: 2289,
+    name: "pointermove",
+    value: { relX: 19.181034482758623, relY: 20.25862068965517 },
+  },
+  {
+    time: 2297,
+    name: "pointermove",
+    value: { relX: 19.396551724137932, relY: 20.25862068965517 },
+  },
+  {
+    time: 2304,
+    name: "pointermove",
+    value: { relX: 19.396551724137932, relY: 20.25862068965517 },
+  },
+  {
+    time: 2312,
+    name: "pointermove",
+    value: { relX: 19.612068965517242, relY: 20.474137931034484 },
+  },
+  {
+    time: 2318,
+    name: "pointermove",
+    value: { relX: 19.612068965517242, relY: 20.474137931034484 },
+  },
+  {
+    time: 2326,
+    name: "pointermove",
+    value: { relX: 19.82758620689655, relY: 20.474137931034484 },
+  },
+  {
+    time: 2335,
+    name: "pointermove",
+    value: { relX: 19.82758620689655, relY: 20.689655172413794 },
+  },
+  {
+    time: 2342,
+    name: "pointermove",
+    value: { relX: 19.82758620689655, relY: 20.689655172413794 },
+  },
+  {
+    time: 2350,
+    name: "pointermove",
+    value: { relX: 20.04310344827586, relY: 20.689655172413794 },
+  },
+  {
+    time: 2358,
+    name: "pointermove",
+    value: { relX: 20.04310344827586, relY: 20.905172413793103 },
+  },
+  {
+    time: 2367,
+    name: "pointermove",
+    value: { relX: 20.25862068965517, relY: 20.905172413793103 },
+  },
+  {
+    time: 2374,
+    name: "pointermove",
+    value: { relX: 20.25862068965517, relY: 20.905172413793103 },
+  },
+  {
+    time: 2382,
+    name: "pointermove",
+    value: { relX: 20.25862068965517, relY: 20.905172413793103 },
+  },
+  {
+    time: 2390,
+    name: "pointermove",
+    value: { relX: 20.474137931034484, relY: 20.905172413793103 },
+  },
+  {
+    time: 2396,
+    name: "pointermove",
+    value: { relX: 20.474137931034484, relY: 21.120689655172413 },
+  },
+  {
+    time: 2405,
+    name: "pointermove",
+    value: { relX: 20.474137931034484, relY: 21.120689655172413 },
+  },
+  {
+    time: 2412,
+    name: "pointermove",
+    value: { relX: 20.689655172413794, relY: 21.120689655172413 },
+  },
+  {
+    time: 2428,
+    name: "pointermove",
+    value: { relX: 20.689655172413794, relY: 21.120689655172413 },
+  },
+  {
+    time: 2437,
+    name: "pointermove",
+    value: { relX: 20.689655172413794, relY: 21.336206896551722 },
+  },
+  {
+    time: 2452,
+    name: "pointermove",
+    value: { relX: 20.905172413793103, relY: 21.336206896551722 },
+  },
+  {
+    time: 2460,
+    name: "pointermove",
+    value: { relX: 20.905172413793103, relY: 21.336206896551722 },
+  },
+  {
+    time: 2469,
+    name: "pointermove",
+    value: { relX: 20.905172413793103, relY: 21.551724137931032 },
+  },
+  {
+    time: 2474,
+    name: "pointermove",
+    value: { relX: 20.905172413793103, relY: 21.551724137931032 },
+  },
+  {
+    time: 2483,
+    name: "pointermove",
+    value: { relX: 21.120689655172413, relY: 21.551724137931032 },
+  },
+  {
+    time: 2490,
+    name: "pointermove",
+    value: { relX: 21.120689655172413, relY: 21.767241379310345 },
+  },
+  {
+    time: 2506,
+    name: "pointermove",
+    value: { relX: 21.120689655172413, relY: 21.767241379310345 },
+  },
+  {
+    time: 2514,
+    name: "pointermove",
+    value: { relX: 21.336206896551722, relY: 21.767241379310345 },
+  },
+  {
+    time: 2522,
+    name: "pointermove",
+    value: { relX: 21.336206896551722, relY: 21.982758620689655 },
+  },
+  {
+    time: 2530,
+    name: "pointermove",
+    value: { relX: 21.336206896551722, relY: 21.982758620689655 },
+  },
+  {
+    time: 2538,
+    name: "pointermove",
+    value: { relX: 21.336206896551722, relY: 21.982758620689655 },
+  },
+  {
+    time: 2547,
+    name: "pointermove",
+    value: { relX: 21.551724137931032, relY: 21.982758620689655 },
+  },
+  {
+    time: 2553,
+    name: "pointermove",
+    value: { relX: 21.551724137931032, relY: 22.198275862068968 },
+  },
+  {
+    time: 2561,
+    name: "pointermove",
+    value: { relX: 21.551724137931032, relY: 22.198275862068968 },
+  },
+  {
+    time: 2568,
+    name: "pointermove",
+    value: { relX: 21.767241379310345, relY: 22.198275862068968 },
+  },
+  {
+    time: 2576,
+    name: "pointermove",
+    value: { relX: 21.767241379310345, relY: 22.413793103448278 },
+  },
+  {
+    time: 2585,
+    name: "pointermove",
+    value: { relX: 21.767241379310345, relY: 22.413793103448278 },
+  },
+  {
+    time: 2593,
+    name: "pointermove",
+    value: { relX: 21.982758620689655, relY: 22.629310344827587 },
+  },
+  {
+    time: 2600,
+    name: "pointermove",
+    value: { relX: 21.982758620689655, relY: 22.844827586206897 },
+  },
+  {
+    time: 2608,
+    name: "pointermove",
+    value: { relX: 21.982758620689655, relY: 22.844827586206897 },
+  },
+  {
+    time: 2617,
+    name: "pointermove",
+    value: { relX: 22.198275862068968, relY: 23.060344827586206 },
+  },
+  {
+    time: 2625,
+    name: "pointermove",
+    value: { relX: 22.198275862068968, relY: 23.060344827586206 },
+  },
+  {
+    time: 2631,
+    name: "pointermove",
+    value: { relX: 22.198275862068968, relY: 23.275862068965516 },
+  },
+  {
+    time: 2638,
+    name: "pointermove",
+    value: { relX: 22.413793103448278, relY: 23.275862068965516 },
+  },
+  {
+    time: 2646,
+    name: "pointermove",
+    value: { relX: 22.413793103448278, relY: 23.49137931034483 },
+  },
+  {
+    time: 2654,
+    name: "pointermove",
+    value: { relX: 22.413793103448278, relY: 23.49137931034483 },
+  },
+  {
+    time: 2663,
+    name: "pointermove",
+    value: { relX: 22.629310344827587, relY: 23.70689655172414 },
+  },
+  {
+    time: 2670,
+    name: "pointermove",
+    value: { relX: 22.629310344827587, relY: 23.70689655172414 },
+  },
+  {
+    time: 2678,
+    name: "pointermove",
+    value: { relX: 22.629310344827587, relY: 23.92241379310345 },
+  },
+  {
+    time: 2686,
+    name: "pointermove",
+    value: { relX: 22.844827586206897, relY: 23.92241379310345 },
+  },
+  {
+    time: 2695,
+    name: "pointermove",
+    value: { relX: 22.844827586206897, relY: 24.137931034482758 },
+  },
+  {
+    time: 2702,
+    name: "pointermove",
+    value: { relX: 22.844827586206897, relY: 24.137931034482758 },
+  },
+  {
+    time: 2709,
+    name: "pointermove",
+    value: { relX: 22.844827586206897, relY: 24.353448275862068 },
+  },
+  {
+    time: 2716,
+    name: "pointermove",
+    value: { relX: 23.060344827586206, relY: 24.568965517241377 },
+  },
+  {
+    time: 2724,
+    name: "pointermove",
+    value: { relX: 23.060344827586206, relY: 24.568965517241377 },
+  },
+  {
+    time: 2733,
+    name: "pointermove",
+    value: { relX: 23.060344827586206, relY: 24.78448275862069 },
+  },
+  {
+    time: 2741,
+    name: "pointermove",
+    value: { relX: 23.275862068965516, relY: 25 },
+  },
+  {
+    time: 2748,
+    name: "pointermove",
+    value: { relX: 23.275862068965516, relY: 25 },
+  },
+  {
+    time: 2756,
+    name: "pointermove",
+    value: { relX: 23.275862068965516, relY: 25.21551724137931 },
+  },
+  {
+    time: 2765,
+    name: "pointermove",
+    value: { relX: 23.49137931034483, relY: 25.21551724137931 },
+  },
+  {
+    time: 2773,
+    name: "pointermove",
+    value: { relX: 23.49137931034483, relY: 25.43103448275862 },
+  },
+  {
+    time: 2780,
+    name: "pointermove",
+    value: { relX: 23.49137931034483, relY: 25.646551724137932 },
+  },
+  {
+    time: 2786,
+    name: "pointermove",
+    value: { relX: 23.70689655172414, relY: 25.646551724137932 },
+  },
+  {
+    time: 2794,
+    name: "pointermove",
+    value: { relX: 23.70689655172414, relY: 25.862068965517242 },
+  },
+  {
+    time: 2803,
+    name: "pointermove",
+    value: { relX: 23.70689655172414, relY: 25.862068965517242 },
+  },
+  {
+    time: 2811,
+    name: "pointermove",
+    value: { relX: 23.92241379310345, relY: 26.07758620689655 },
+  },
+  {
+    time: 2818,
+    name: "pointermove",
+    value: { relX: 23.92241379310345, relY: 26.07758620689655 },
+  },
+  {
+    time: 2826,
+    name: "pointermove",
+    value: { relX: 23.92241379310345, relY: 26.29310344827586 },
+  },
+  {
+    time: 2834,
+    name: "pointermove",
+    value: { relX: 24.137931034482758, relY: 26.29310344827586 },
+  },
+  {
+    time: 2843,
+    name: "pointermove",
+    value: { relX: 24.137931034482758, relY: 26.50862068965517 },
+  },
+  {
+    time: 2850,
+    name: "pointermove",
+    value: { relX: 24.137931034482758, relY: 26.50862068965517 },
+  },
+  {
+    time: 2858,
+    name: "pointermove",
+    value: { relX: 24.353448275862068, relY: 26.72413793103448 },
+  },
+  {
+    time: 2864,
+    name: "pointermove",
+    value: { relX: 24.353448275862068, relY: 26.72413793103448 },
+  },
+  {
+    time: 2872,
+    name: "pointermove",
+    value: { relX: 24.568965517241377, relY: 26.939655172413797 },
+  },
+  {
+    time: 2881,
+    name: "pointermove",
+    value: { relX: 24.568965517241377, relY: 26.939655172413797 },
+  },
+  {
+    time: 2888,
+    name: "pointermove",
+    value: { relX: 24.568965517241377, relY: 27.155172413793103 },
+  },
+  {
+    time: 2896,
+    name: "pointermove",
+    value: { relX: 24.78448275862069, relY: 27.155172413793103 },
+  },
+  {
+    time: 2904,
+    name: "pointermove",
+    value: { relX: 24.78448275862069, relY: 27.370689655172413 },
+  },
+  {
+    time: 2913,
+    name: "pointermove",
+    value: { relX: 25, relY: 27.370689655172413 },
+  },
+  {
+    time: 2921,
+    name: "pointermove",
+    value: { relX: 25, relY: 27.586206896551722 },
+  },
+  {
+    time: 2928,
+    name: "pointermove",
+    value: { relX: 25, relY: 27.586206896551722 },
+  },
+  {
+    time: 2936,
+    name: "pointermove",
+    value: { relX: 25.21551724137931, relY: 27.801724137931032 },
+  },
+  {
+    time: 2942,
+    name: "pointermove",
+    value: { relX: 25.21551724137931, relY: 27.801724137931032 },
+  },
+  {
+    time: 2950,
+    name: "pointermove",
+    value: { relX: 25.43103448275862, relY: 28.01724137931034 },
+  },
+  {
+    time: 2958,
+    name: "pointermove",
+    value: { relX: 25.43103448275862, relY: 28.01724137931034 },
+  },
+  {
+    time: 2966,
+    name: "pointermove",
+    value: { relX: 25.646551724137932, relY: 28.01724137931034 },
+  },
+  {
+    time: 2974,
+    name: "pointermove",
+    value: { relX: 25.646551724137932, relY: 28.23275862068966 },
+  },
+  {
+    time: 2982,
+    name: "pointermove",
+    value: { relX: 25.646551724137932, relY: 28.23275862068966 },
+  },
+  {
+    time: 2991,
+    name: "pointermove",
+    value: { relX: 25.862068965517242, relY: 28.448275862068968 },
+  },
+  {
+    time: 2998,
+    name: "pointermove",
+    value: { relX: 25.862068965517242, relY: 28.448275862068968 },
+  },
+  {
+    time: 3006,
+    name: "pointermove",
+    value: { relX: 26.07758620689655, relY: 28.663793103448278 },
+  },
+  {
+    time: 3014,
+    name: "pointermove",
+    value: { relX: 26.07758620689655, relY: 28.663793103448278 },
+  },
+  {
+    time: 3020,
+    name: "pointermove",
+    value: { relX: 26.29310344827586, relY: 28.879310344827587 },
+  },
+  {
+    time: 3029,
+    name: "pointermove",
+    value: { relX: 26.29310344827586, relY: 28.879310344827587 },
+  },
+  {
+    time: 3036,
+    name: "pointermove",
+    value: { relX: 26.50862068965517, relY: 29.094827586206897 },
+  },
+  {
+    time: 3044,
+    name: "pointermove",
+    value: { relX: 26.50862068965517, relY: 29.094827586206897 },
+  },
+  {
+    time: 3052,
+    name: "pointermove",
+    value: { relX: 26.72413793103448, relY: 29.094827586206897 },
+  },
+  {
+    time: 3061,
+    name: "pointermove",
+    value: { relX: 26.72413793103448, relY: 29.310344827586203 },
+  },
+  {
+    time: 3069,
+    name: "pointermove",
+    value: { relX: 26.939655172413797, relY: 29.52586206896552 },
+  },
+  {
+    time: 3076,
+    name: "pointermove",
+    value: { relX: 26.939655172413797, relY: 29.52586206896552 },
+  },
+  {
+    time: 3084,
+    name: "pointermove",
+    value: { relX: 27.155172413793103, relY: 29.74137931034483 },
+  },
+  {
+    time: 3093,
+    name: "pointermove",
+    value: { relX: 27.155172413793103, relY: 29.74137931034483 },
+  },
+  {
+    time: 3101,
+    name: "pointermove",
+    value: { relX: 27.370689655172413, relY: 29.95689655172414 },
+  },
+  {
+    time: 3107,
+    name: "pointermove",
+    value: { relX: 27.370689655172413, relY: 29.95689655172414 },
+  },
+  {
+    time: 3114,
+    name: "pointermove",
+    value: { relX: 27.586206896551722, relY: 30.17241379310345 },
+  },
+  {
+    time: 3122,
+    name: "pointermove",
+    value: { relX: 27.801724137931032, relY: 30.387931034482758 },
+  },
+  {
+    time: 3130,
+    name: "pointermove",
+    value: { relX: 27.801724137931032, relY: 30.387931034482758 },
+  },
+  {
+    time: 3139,
+    name: "pointermove",
+    value: { relX: 28.01724137931034, relY: 30.603448275862068 },
+  },
+  {
+    time: 3146,
+    name: "pointermove",
+    value: { relX: 28.01724137931034, relY: 30.81896551724138 },
+  },
+  {
+    time: 3154,
+    name: "pointermove",
+    value: { relX: 28.23275862068966, relY: 30.81896551724138 },
+  },
+  {
+    time: 3162,
+    name: "pointermove",
+    value: { relX: 28.448275862068968, relY: 31.03448275862069 },
+  },
+  {
+    time: 3171,
+    name: "pointermove",
+    value: { relX: 28.448275862068968, relY: 31.03448275862069 },
+  },
+  {
+    time: 3178,
+    name: "pointermove",
+    value: { relX: 28.663793103448278, relY: 31.25 },
+  },
+  {
+    time: 3184,
+    name: "pointermove",
+    value: { relX: 28.663793103448278, relY: 31.25 },
+  },
+  {
+    time: 3192,
+    name: "pointermove",
+    value: { relX: 28.879310344827587, relY: 31.46551724137931 },
+  },
+  {
+    time: 3200,
+    name: "pointermove",
+    value: { relX: 28.879310344827587, relY: 31.68103448275862 },
+  },
+  {
+    time: 3209,
+    name: "pointermove",
+    value: { relX: 29.094827586206897, relY: 31.68103448275862 },
+  },
+  {
+    time: 3216,
+    name: "pointermove",
+    value: { relX: 29.310344827586203, relY: 31.896551724137932 },
+  },
+  {
+    time: 3224,
+    name: "pointermove",
+    value: { relX: 29.310344827586203, relY: 31.896551724137932 },
+  },
+  {
+    time: 3232,
+    name: "pointermove",
+    value: { relX: 29.52586206896552, relY: 32.112068965517246 },
+  },
+  {
+    time: 3241,
+    name: "pointermove",
+    value: { relX: 29.52586206896552, relY: 32.327586206896555 },
+  },
+  {
+    time: 3248,
+    name: "pointermove",
+    value: { relX: 29.74137931034483, relY: 32.543103448275865 },
+  },
+  {
+    time: 3256,
+    name: "pointermove",
+    value: { relX: 29.95689655172414, relY: 32.758620689655174 },
+  },
+  {
+    time: 3262,
+    name: "pointermove",
+    value: { relX: 30.17241379310345, relY: 32.758620689655174 },
+  },
+  {
+    time: 3270,
+    name: "pointermove",
+    value: { relX: 30.17241379310345, relY: 32.974137931034484 },
+  },
+  {
+    time: 3278,
+    name: "pointermove",
+    value: { relX: 30.387931034482758, relY: 33.189655172413794 },
+  },
+  {
+    time: 3287,
+    name: "pointermove",
+    value: { relX: 30.603448275862068, relY: 33.4051724137931 },
+  },
+  {
+    time: 3294,
+    name: "pointermove",
+    value: { relX: 30.81896551724138, relY: 33.4051724137931 },
+  },
+  {
+    time: 3302,
+    name: "pointermove",
+    value: { relX: 30.81896551724138, relY: 33.62068965517241 },
+  },
+  {
+    time: 3310,
+    name: "pointermove",
+    value: { relX: 31.03448275862069, relY: 33.62068965517241 },
+  },
+  {
+    time: 3319,
+    name: "pointermove",
+    value: { relX: 31.03448275862069, relY: 33.83620689655172 },
+  },
+  {
+    time: 3326,
+    name: "pointermove",
+    value: { relX: 31.25, relY: 34.05172413793103 },
+  },
+  {
+    time: 3334,
+    name: "pointermove",
+    value: { relX: 31.46551724137931, relY: 34.05172413793103 },
+  },
+  {
+    time: 3340,
+    name: "pointermove",
+    value: { relX: 31.46551724137931, relY: 34.26724137931034 },
+  },
+  {
+    time: 3348,
+    name: "pointermove",
+    value: { relX: 31.68103448275862, relY: 34.48275862068966 },
+  },
+  {
+    time: 3357,
+    name: "pointermove",
+    value: { relX: 31.896551724137932, relY: 34.48275862068966 },
+  },
+  {
+    time: 3364,
+    name: "pointermove",
+    value: { relX: 32.112068965517246, relY: 34.69827586206897 },
+  },
+  {
+    time: 3372,
+    name: "pointermove",
+    value: { relX: 32.327586206896555, relY: 34.91379310344828 },
+  },
+  {
+    time: 3380,
+    name: "pointermove",
+    value: { relX: 32.327586206896555, relY: 34.91379310344828 },
+  },
+  {
+    time: 3389,
+    name: "pointermove",
+    value: { relX: 32.543103448275865, relY: 35.12931034482759 },
+  },
+  {
+    time: 3396,
+    name: "pointermove",
+    value: { relX: 32.758620689655174, relY: 35.12931034482759 },
+  },
+  {
+    time: 3404,
+    name: "pointermove",
+    value: { relX: 32.758620689655174, relY: 35.3448275862069 },
+  },
+  {
+    time: 3412,
+    name: "pointermove",
+    value: { relX: 32.974137931034484, relY: 35.3448275862069 },
+  },
+  {
+    time: 3418,
+    name: "pointermove",
+    value: { relX: 33.189655172413794, relY: 35.560344827586206 },
+  },
+  {
+    time: 3427,
+    name: "pointermove",
+    value: { relX: 33.4051724137931, relY: 35.775862068965516 },
+  },
+  {
+    time: 3435,
+    name: "pointermove",
+    value: { relX: 33.4051724137931, relY: 35.775862068965516 },
+  },
+  {
+    time: 3442,
+    name: "pointermove",
+    value: { relX: 33.62068965517241, relY: 35.991379310344826 },
+  },
+  {
+    time: 3450,
+    name: "pointermove",
+    value: { relX: 33.83620689655172, relY: 35.991379310344826 },
+  },
+  {
+    time: 3458,
+    name: "pointermove",
+    value: { relX: 33.83620689655172, relY: 36.206896551724135 },
+  },
+  {
+    time: 3467,
+    name: "pointermove",
+    value: { relX: 34.05172413793103, relY: 36.422413793103445 },
+  },
+  {
+    time: 3474,
+    name: "pointermove",
+    value: { relX: 34.26724137931034, relY: 36.422413793103445 },
+  },
+  {
+    time: 3482,
+    name: "pointermove",
+    value: { relX: 34.26724137931034, relY: 36.637931034482754 },
+  },
+  {
+    time: 3490,
+    name: "pointermove",
+    value: { relX: 34.48275862068966, relY: 36.637931034482754 },
+  },
+  {
+    time: 3496,
+    name: "pointermove",
+    value: { relX: 34.69827586206897, relY: 36.853448275862064 },
+  },
+  {
+    time: 3504,
+    name: "pointermove",
+    value: { relX: 34.69827586206897, relY: 37.06896551724138 },
+  },
+  {
+    time: 3513,
+    name: "pointermove",
+    value: { relX: 34.91379310344828, relY: 37.06896551724138 },
+  },
+  {
+    time: 3520,
+    name: "pointermove",
+    value: { relX: 35.12931034482759, relY: 37.28448275862069 },
+  },
+  {
+    time: 3528,
+    name: "pointermove",
+    value: { relX: 35.12931034482759, relY: 37.28448275862069 },
+  },
+  {
+    time: 3537,
+    name: "pointermove",
+    value: { relX: 35.3448275862069, relY: 37.5 },
+  },
+  {
+    time: 3544,
+    name: "pointermove",
+    value: { relX: 35.3448275862069, relY: 37.71551724137931 },
+  },
+  {
+    time: 3552,
+    name: "pointermove",
+    value: { relX: 35.560344827586206, relY: 37.71551724137931 },
+  },
+  {
+    time: 3560,
+    name: "pointermove",
+    value: { relX: 35.775862068965516, relY: 37.93103448275862 },
+  },
+  {
+    time: 3568,
+    name: "pointermove",
+    value: { relX: 35.775862068965516, relY: 37.93103448275862 },
+  },
+  {
+    time: 3574,
+    name: "pointermove",
+    value: { relX: 35.991379310344826, relY: 38.146551724137936 },
+  },
+  {
+    time: 3582,
+    name: "pointermove",
+    value: { relX: 36.206896551724135, relY: 38.362068965517246 },
+  },
+  {
+    time: 3590,
+    name: "pointermove",
+    value: { relX: 36.422413793103445, relY: 38.577586206896555 },
+  },
+  {
+    time: 3598,
+    name: "pointermove",
+    value: { relX: 36.422413793103445, relY: 38.577586206896555 },
+  },
+  {
+    time: 3606,
+    name: "pointermove",
+    value: { relX: 36.637931034482754, relY: 38.793103448275865 },
+  },
+  {
+    time: 3615,
+    name: "pointermove",
+    value: { relX: 36.853448275862064, relY: 39.008620689655174 },
+  },
+  {
+    time: 3622,
+    name: "pointermove",
+    value: { relX: 36.853448275862064, relY: 39.008620689655174 },
+  },
+  {
+    time: 3630,
+    name: "pointermove",
+    value: { relX: 37.06896551724138, relY: 39.224137931034484 },
+  },
+  {
+    time: 3638,
+    name: "pointermove",
+    value: { relX: 37.28448275862069, relY: 39.439655172413794 },
+  },
+  {
+    time: 3646,
+    name: "pointermove",
+    value: { relX: 37.5, relY: 39.6551724137931 },
+  },
+  {
+    time: 3654,
+    name: "pointermove",
+    value: { relX: 37.5, relY: 39.87068965517241 },
+  },
+  {
+    time: 3661,
+    name: "pointermove",
+    value: { relX: 37.93103448275862, relY: 40.08620689655172 },
+  },
+  {
+    time: 3668,
+    name: "pointermove",
+    value: { relX: 37.93103448275862, relY: 40.30172413793103 },
+  },
+  {
+    time: 3676,
+    name: "pointermove",
+    value: { relX: 38.146551724137936, relY: 40.30172413793103 },
+  },
+  {
+    time: 3685,
+    name: "pointermove",
+    value: { relX: 38.362068965517246, relY: 40.51724137931034 },
+  },
+  {
+    time: 3693,
+    name: "pointermove",
+    value: { relX: 38.577586206896555, relY: 40.73275862068966 },
+  },
+  {
+    time: 3700,
+    name: "pointermove",
+    value: { relX: 38.793103448275865, relY: 40.94827586206897 },
+  },
+  {
+    time: 3708,
+    name: "pointermove",
+    value: { relX: 39.008620689655174, relY: 41.16379310344828 },
+  },
+  {
+    time: 3717,
+    name: "pointermove",
+    value: { relX: 39.008620689655174, relY: 41.16379310344828 },
+  },
+  {
+    time: 3725,
+    name: "pointermove",
+    value: { relX: 39.224137931034484, relY: 41.37931034482759 },
+  },
+  {
+    time: 3732,
+    name: "pointermove",
+    value: { relX: 39.439655172413794, relY: 41.5948275862069 },
+  },
+  {
+    time: 3738,
+    name: "pointermove",
+    value: { relX: 39.6551724137931, relY: 41.810344827586206 },
+  },
+  {
+    time: 3746,
+    name: "pointermove",
+    value: { relX: 39.87068965517241, relY: 41.810344827586206 },
+  },
+  {
+    time: 3754,
+    name: "pointermove",
+    value: { relX: 39.87068965517241, relY: 42.025862068965516 },
+  },
+  {
+    time: 3763,
+    name: "pointermove",
+    value: { relX: 40.08620689655172, relY: 42.241379310344826 },
+  },
+  {
+    time: 3770,
+    name: "pointermove",
+    value: { relX: 40.30172413793103, relY: 42.241379310344826 },
+  },
+  {
+    time: 3778,
+    name: "pointermove",
+    value: { relX: 40.51724137931034, relY: 42.456896551724135 },
+  },
+  {
+    time: 3786,
+    name: "pointermove",
+    value: { relX: 40.73275862068966, relY: 42.672413793103445 },
+  },
+  {
+    time: 3794,
+    name: "pointermove",
+    value: { relX: 40.73275862068966, relY: 42.887931034482754 },
+  },
+  {
+    time: 3802,
+    name: "pointermove",
+    value: { relX: 40.94827586206897, relY: 42.887931034482754 },
+  },
+  {
+    time: 3810,
+    name: "pointermove",
+    value: { relX: 41.16379310344828, relY: 43.103448275862064 },
+  },
+  {
+    time: 3816,
+    name: "pointermove",
+    value: { relX: 41.37931034482759, relY: 43.31896551724138 },
+  },
+  {
+    time: 3824,
+    name: "pointermove",
+    value: { relX: 41.5948275862069, relY: 43.31896551724138 },
+  },
+  {
+    time: 3833,
+    name: "pointermove",
+    value: { relX: 41.5948275862069, relY: 43.53448275862069 },
+  },
+  {
+    time: 3841,
+    name: "pointermove",
+    value: { relX: 41.810344827586206, relY: 43.75 },
+  },
+  {
+    time: 3848,
+    name: "pointermove",
+    value: { relX: 42.025862068965516, relY: 43.75 },
+  },
+  {
+    time: 3856,
+    name: "pointermove",
+    value: { relX: 42.241379310344826, relY: 43.96551724137931 },
+  },
+  {
+    time: 3865,
+    name: "pointermove",
+    value: { relX: 42.456896551724135, relY: 44.18103448275862 },
+  },
+  {
+    time: 3873,
+    name: "pointermove",
+    value: { relX: 42.456896551724135, relY: 44.18103448275862 },
+  },
+  {
+    time: 3880,
+    name: "pointermove",
+    value: { relX: 42.672413793103445, relY: 44.396551724137936 },
+  },
+  {
+    time: 3888,
+    name: "pointermove",
+    value: { relX: 42.672413793103445, relY: 44.396551724137936 },
+  },
+  {
+    time: 3897,
+    name: "pointermove",
+    value: { relX: 42.887931034482754, relY: 44.612068965517246 },
+  },
+  {
+    time: 3904,
+    name: "pointermove",
+    value: { relX: 43.103448275862064, relY: 44.612068965517246 },
+  },
+  {
+    time: 3911,
+    name: "pointermove",
+    value: { relX: 43.103448275862064, relY: 44.827586206896555 },
+  },
+  {
+    time: 3918,
+    name: "pointermove",
+    value: { relX: 43.31896551724138, relY: 44.827586206896555 },
+  },
+  {
+    time: 3926,
+    name: "pointermove",
+    value: { relX: 43.31896551724138, relY: 45.043103448275865 },
+  },
+  {
+    time: 3934,
+    name: "pointermove",
+    value: { relX: 43.53448275862069, relY: 45.043103448275865 },
+  },
+  {
+    time: 3942,
+    name: "pointermove",
+    value: { relX: 43.53448275862069, relY: 45.258620689655174 },
+  },
+  {
+    time: 3950,
+    name: "pointermove",
+    value: { relX: 43.75, relY: 45.258620689655174 },
+  },
+  {
+    time: 3958,
+    name: "pointermove",
+    value: { relX: 43.75, relY: 45.258620689655174 },
+  },
+  {
+    time: 3966,
+    name: "pointermove",
+    value: { relX: 43.96551724137931, relY: 45.474137931034484 },
+  },
+  {
+    time: 3972,
+    name: "pointermove",
+    value: { relX: 44.18103448275862, relY: 45.689655172413794 },
+  },
+  {
+    time: 3981,
+    name: "pointermove",
+    value: { relX: 44.18103448275862, relY: 45.689655172413794 },
+  },
+  {
+    time: 3988,
+    name: "pointermove",
+    value: { relX: 44.18103448275862, relY: 45.689655172413794 },
+  },
+  {
+    time: 3996,
+    name: "pointermove",
+    value: { relX: 44.18103448275862, relY: 45.689655172413794 },
+  },
+  {
+    time: 4004,
+    name: "pointermove",
+    value: { relX: 44.396551724137936, relY: 45.9051724137931 },
+  },
+  {
+    time: 4013,
+    name: "pointermove",
+    value: { relX: 44.612068965517246, relY: 45.9051724137931 },
+  },
+  {
+    time: 4020,
+    name: "pointermove",
+    value: { relX: 44.612068965517246, relY: 45.9051724137931 },
+  },
+  {
+    time: 4028,
+    name: "pointermove",
+    value: { relX: 44.827586206896555, relY: 46.12068965517241 },
+  },
+  {
+    time: 4036,
+    name: "pointermove",
+    value: { relX: 44.827586206896555, relY: 46.12068965517241 },
+  },
+  {
+    time: 4045,
+    name: "pointermove",
+    value: { relX: 44.827586206896555, relY: 46.33620689655172 },
+  },
+  {
+    time: 4050,
+    name: "pointermove",
+    value: { relX: 45.043103448275865, relY: 46.33620689655172 },
+  },
+  {
+    time: 4058,
+    name: "pointermove",
+    value: { relX: 45.043103448275865, relY: 46.55172413793103 },
+  },
+  {
+    time: 4066,
+    name: "pointermove",
+    value: { relX: 45.258620689655174, relY: 46.55172413793103 },
+  },
+  {
+    time: 4074,
+    name: "pointermove",
+    value: { relX: 45.258620689655174, relY: 46.55172413793103 },
+  },
+  {
+    time: 4082,
+    name: "pointermove",
+    value: { relX: 45.474137931034484, relY: 46.76724137931034 },
+  },
+  {
+    time: 4091,
+    name: "pointermove",
+    value: { relX: 45.474137931034484, relY: 46.76724137931034 },
+  },
+  {
+    time: 4098,
+    name: "pointermove",
+    value: { relX: 45.689655172413794, relY: 46.98275862068966 },
+  },
+  {
+    time: 4106,
+    name: "pointermove",
+    value: { relX: 45.689655172413794, relY: 46.98275862068966 },
+  },
+  {
+    time: 4114,
+    name: "pointermove",
+    value: { relX: 45.689655172413794, relY: 47.19827586206897 },
+  },
+  {
+    time: 4123,
+    name: "pointermove",
+    value: { relX: 45.9051724137931, relY: 47.19827586206897 },
+  },
+  {
+    time: 4128,
+    name: "pointermove",
+    value: { relX: 45.9051724137931, relY: 47.41379310344828 },
+  },
+  {
+    time: 4136,
+    name: "pointermove",
+    value: { relX: 46.12068965517241, relY: 47.41379310344828 },
+  },
+  {
+    time: 4144,
+    name: "pointermove",
+    value: { relX: 46.12068965517241, relY: 47.41379310344828 },
+  },
+  {
+    time: 4152,
+    name: "pointermove",
+    value: { relX: 46.33620689655172, relY: 47.62931034482759 },
+  },
+  {
+    time: 4161,
+    name: "pointermove",
+    value: { relX: 46.55172413793103, relY: 47.8448275862069 },
+  },
+  {
+    time: 4168,
+    name: "pointermove",
+    value: { relX: 46.55172413793103, relY: 47.8448275862069 },
+  },
+  {
+    time: 4176,
+    name: "pointermove",
+    value: { relX: 46.76724137931034, relY: 48.060344827586206 },
+  },
+  {
+    time: 4184,
+    name: "pointermove",
+    value: { relX: 46.98275862068966, relY: 48.275862068965516 },
+  },
+  {
+    time: 4193,
+    name: "pointermove",
+    value: { relX: 46.98275862068966, relY: 48.491379310344826 },
+  },
+  {
+    time: 4200,
+    name: "pointermove",
+    value: { relX: 47.19827586206897, relY: 48.491379310344826 },
+  },
+  {
+    time: 4208,
+    name: "pointermove",
+    value: { relX: 47.41379310344828, relY: 48.706896551724135 },
+  },
+  {
+    time: 4214,
+    name: "pointermove",
+    value: { relX: 47.41379310344828, relY: 48.706896551724135 },
+  },
+  {
+    time: 4222,
+    name: "pointermove",
+    value: { relX: 47.62931034482759, relY: 48.922413793103445 },
+  },
+  {
+    time: 4230,
+    name: "pointermove",
+    value: { relX: 47.62931034482759, relY: 49.137931034482754 },
+  },
+  {
+    time: 4238,
+    name: "pointermove",
+    value: { relX: 47.8448275862069, relY: 49.137931034482754 },
+  },
+  {
+    time: 4246,
+    name: "pointermove",
+    value: { relX: 48.060344827586206, relY: 49.353448275862064 },
+  },
+  {
+    time: 4254,
+    name: "pointermove",
+    value: { relX: 48.275862068965516, relY: 49.56896551724138 },
+  },
+  {
+    time: 4262,
+    name: "pointermove",
+    value: { relX: 48.275862068965516, relY: 49.78448275862069 },
+  },
+  {
+    time: 4270,
+    name: "pointermove",
+    value: { relX: 48.491379310344826, relY: 49.78448275862069 },
+  },
+  {
+    time: 4278,
+    name: "pointermove",
+    value: { relX: 48.491379310344826, relY: 50 },
+  },
+  {
+    time: 4286,
+    name: "pointermove",
+    value: { relX: 48.706896551724135, relY: 50 },
+  },
+  {
+    time: 4295,
+    name: "pointermove",
+    value: { relX: 48.922413793103445, relY: 50.21551724137932 },
+  },
+  {
+    time: 4303,
+    name: "pointermove",
+    value: { relX: 48.922413793103445, relY: 50.21551724137932 },
+  },
+  {
+    time: 4309,
+    name: "pointermove",
+    value: { relX: 48.922413793103445, relY: 50.21551724137932 },
+  },
+  {
+    time: 4370,
+    name: "pointermove",
+    value: { relX: 49.137931034482754, relY: 50.43103448275862 },
+  },
+  {
+    time: 4378,
+    name: "pointermove",
+    value: { relX: 49.353448275862064, relY: 50.43103448275862 },
+  },
+  {
+    time: 4386,
+    name: "pointermove",
+    value: { relX: 49.353448275862064, relY: 50.646551724137936 },
+  },
+  {
+    time: 4394,
+    name: "pointermove",
+    value: { relX: 49.56896551724138, relY: 50.86206896551724 },
+  },
+  {
+    time: 4402,
+    name: "pointermove",
+    value: { relX: 49.78448275862069, relY: 50.86206896551724 },
+  },
+  {
+    time: 4410,
+    name: "pointermove",
+    value: { relX: 50, relY: 51.077586206896555 },
+  },
+  {
+    time: 4419,
+    name: "pointermove",
+    value: { relX: 50, relY: 51.077586206896555 },
+  },
+  {
+    time: 4426,
+    name: "pointermove",
+    value: { relX: 50.21551724137932, relY: 51.293103448275865 },
+  },
+  {
+    time: 4434,
+    name: "pointermove",
+    value: { relX: 50.43103448275862, relY: 51.293103448275865 },
+  },
+  {
+    time: 4442,
+    name: "pointermove",
+    value: { relX: 50.43103448275862, relY: 51.508620689655174 },
+  },
+  {
+    time: 4448,
+    name: "pointermove",
+    value: { relX: 50.646551724137936, relY: 51.508620689655174 },
+  },
+  {
+    time: 4457,
+    name: "pointermove",
+    value: { relX: 50.646551724137936, relY: 51.724137931034484 },
+  },
+  {
+    time: 4464,
+    name: "pointermove",
+    value: { relX: 50.86206896551724, relY: 51.724137931034484 },
+  },
+  {
+    time: 4472,
+    name: "pointermove",
+    value: { relX: 50.86206896551724, relY: 51.939655172413794 },
+  },
+  {
+    time: 4480,
+    name: "pointermove",
+    value: { relX: 51.077586206896555, relY: 51.939655172413794 },
+  },
+  {
+    time: 4489,
+    name: "pointermove",
+    value: { relX: 51.077586206896555, relY: 52.1551724137931 },
+  },
+  {
+    time: 4497,
+    name: "pointermove",
+    value: { relX: 51.077586206896555, relY: 52.1551724137931 },
+  },
+  {
+    time: 4504,
+    name: "pointermove",
+    value: { relX: 51.293103448275865, relY: 52.370689655172406 },
+  },
+  {
+    time: 4512,
+    name: "pointermove",
+    value: { relX: 51.293103448275865, relY: 52.370689655172406 },
+  },
+  {
+    time: 4521,
+    name: "pointermove",
+    value: { relX: 51.508620689655174, relY: 52.58620689655172 },
+  },
+  {
+    time: 4526,
+    name: "pointermove",
+    value: { relX: 51.724137931034484, relY: 52.58620689655172 },
+  },
+  {
+    time: 4534,
+    name: "pointermove",
+    value: { relX: 51.724137931034484, relY: 52.80172413793104 },
+  },
+  {
+    time: 4542,
+    name: "pointermove",
+    value: { relX: 51.939655172413794, relY: 52.80172413793104 },
+  },
+  {
+    time: 4550,
+    name: "pointermove",
+    value: { relX: 51.939655172413794, relY: 53.01724137931034 },
+  },
+  {
+    time: 4558,
+    name: "pointermove",
+    value: { relX: 52.1551724137931, relY: 53.23275862068966 },
+  },
+  {
+    time: 4566,
+    name: "pointermove",
+    value: { relX: 52.370689655172406, relY: 53.44827586206896 },
+  },
+  {
+    time: 4574,
+    name: "pointermove",
+    value: { relX: 52.370689655172406, relY: 53.66379310344828 },
+  },
+  {
+    time: 4582,
+    name: "pointermove",
+    value: { relX: 52.58620689655172, relY: 53.66379310344828 },
+  },
+  {
+    time: 4591,
+    name: "pointermove",
+    value: { relX: 52.58620689655172, relY: 53.879310344827594 },
+  },
+  {
+    time: 4598,
+    name: "pointermove",
+    value: { relX: 52.80172413793104, relY: 54.0948275862069 },
+  },
+  {
+    time: 4604,
+    name: "pointermove",
+    value: { relX: 53.01724137931034, relY: 54.310344827586206 },
+  },
+  {
+    time: 4612,
+    name: "pointermove",
+    value: { relX: 53.23275862068966, relY: 54.525862068965516 },
+  },
+  {
+    time: 4620,
+    name: "pointermove",
+    value: { relX: 53.44827586206896, relY: 54.741379310344826 },
+  },
+  {
+    time: 4628,
+    name: "pointermove",
+    value: { relX: 53.66379310344828, relY: 54.956896551724135 },
+  },
+  {
+    time: 4637,
+    name: "pointermove",
+    value: { relX: 53.66379310344828, relY: 55.172413793103445 },
+  },
+  {
+    time: 4644,
+    name: "pointermove",
+    value: { relX: 53.879310344827594, relY: 55.172413793103445 },
+  },
+  {
+    time: 4652,
+    name: "pointermove",
+    value: { relX: 54.0948275862069, relY: 55.603448275862064 },
+  },
+  {
+    time: 4660,
+    name: "pointermove",
+    value: { relX: 54.0948275862069, relY: 55.603448275862064 },
+  },
+  {
+    time: 4669,
+    name: "pointermove",
+    value: { relX: 54.310344827586206, relY: 55.81896551724138 },
+  },
+  {
+    time: 4676,
+    name: "pointermove",
+    value: { relX: 54.525862068965516, relY: 56.03448275862068 },
+  },
+  {
+    time: 4682,
+    name: "pointermove",
+    value: { relX: 54.741379310344826, relY: 56.25 },
+  },
+  {
+    time: 4690,
+    name: "pointermove",
+    value: { relX: 54.956896551724135, relY: 56.46551724137932 },
+  },
+  {
+    time: 4698,
+    name: "pointermove",
+    value: { relX: 54.956896551724135, relY: 56.46551724137932 },
+  },
+  {
+    time: 4706,
+    name: "pointermove",
+    value: { relX: 55.172413793103445, relY: 56.68103448275862 },
+  },
+  {
+    time: 4714,
+    name: "pointermove",
+    value: { relX: 55.38793103448276, relY: 56.896551724137936 },
+  },
+  {
+    time: 4722,
+    name: "pointermove",
+    value: { relX: 55.603448275862064, relY: 57.11206896551724 },
+  },
+  {
+    time: 4730,
+    name: "pointermove",
+    value: { relX: 55.81896551724138, relY: 57.327586206896555 },
+  },
+  {
+    time: 4738,
+    name: "pointermove",
+    value: { relX: 55.81896551724138, relY: 57.327586206896555 },
+  },
+  {
+    time: 4747,
+    name: "pointermove",
+    value: { relX: 56.03448275862068, relY: 57.543103448275865 },
+  },
+  {
+    time: 4754,
+    name: "pointermove",
+    value: { relX: 56.25, relY: 57.758620689655174 },
+  },
+  {
+    time: 4762,
+    name: "pointermove",
+    value: { relX: 56.46551724137932, relY: 57.974137931034484 },
+  },
+  {
+    time: 4768,
+    name: "pointermove",
+    value: { relX: 56.68103448275862, relY: 58.189655172413794 },
+  },
+  {
+    time: 4776,
+    name: "pointermove",
+    value: { relX: 56.68103448275862, relY: 58.189655172413794 },
+  },
+  {
+    time: 4785,
+    name: "pointermove",
+    value: { relX: 57.11206896551724, relY: 58.4051724137931 },
+  },
+  {
+    time: 4792,
+    name: "pointermove",
+    value: { relX: 57.11206896551724, relY: 58.620689655172406 },
+  },
+  {
+    time: 4800,
+    name: "pointermove",
+    value: { relX: 57.543103448275865, relY: 58.83620689655172 },
+  },
+  {
+    time: 4808,
+    name: "pointermove",
+    value: { relX: 57.543103448275865, relY: 59.05172413793104 },
+  },
+  {
+    time: 4817,
+    name: "pointermove",
+    value: { relX: 57.758620689655174, relY: 59.26724137931034 },
+  },
+  {
+    time: 4824,
+    name: "pointermove",
+    value: { relX: 57.974137931034484, relY: 59.48275862068966 },
+  },
+  {
+    time: 4832,
+    name: "pointermove",
+    value: { relX: 58.189655172413794, relY: 59.48275862068966 },
+  },
+  {
+    time: 4840,
+    name: "pointermove",
+    value: { relX: 58.4051724137931, relY: 59.69827586206896 },
+  },
+  {
+    time: 4846,
+    name: "pointermove",
+    value: { relX: 58.620689655172406, relY: 60.129310344827594 },
+  },
+  {
+    time: 4855,
+    name: "pointermove",
+    value: { relX: 58.83620689655172, relY: 60.129310344827594 },
+  },
+  {
+    time: 4862,
+    name: "pointermove",
+    value: { relX: 59.05172413793104, relY: 60.560344827586206 },
+  },
+  {
+    time: 4870,
+    name: "pointermove",
+    value: { relX: 59.26724137931034, relY: 60.775862068965516 },
+  },
+  {
+    time: 4878,
+    name: "pointermove",
+    value: { relX: 59.69827586206896, relY: 60.991379310344826 },
+  },
+  {
+    time: 4886,
+    name: "pointermove",
+    value: { relX: 59.69827586206896, relY: 61.206896551724135 },
+  },
+  {
+    time: 4895,
+    name: "pointermove",
+    value: { relX: 60.129310344827594, relY: 61.63793103448276 },
+  },
+  {
+    time: 4902,
+    name: "pointermove",
+    value: { relX: 60.3448275862069, relY: 61.853448275862064 },
+  },
+  {
+    time: 4910,
+    name: "pointermove",
+    value: { relX: 60.775862068965516, relY: 62.06896551724138 },
+  },
+  {
+    time: 4918,
+    name: "pointermove",
+    value: { relX: 60.775862068965516, relY: 62.28448275862068 },
+  },
+  {
+    time: 4924,
+    name: "pointermove",
+    value: { relX: 61.206896551724135, relY: 62.5 },
+  },
+  {
+    time: 4932,
+    name: "pointermove",
+    value: { relX: 61.422413793103445, relY: 62.93103448275862 },
+  },
+  {
+    time: 4940,
+    name: "pointermove",
+    value: { relX: 61.63793103448276, relY: 63.146551724137936 },
+  },
+  {
+    time: 4948,
+    name: "pointermove",
+    value: { relX: 62.06896551724138, relY: 63.577586206896555 },
+  },
+  {
+    time: 4956,
+    name: "pointermove",
+    value: { relX: 62.28448275862068, relY: 63.577586206896555 },
+  },
+  {
+    time: 4964,
+    name: "pointermove",
+    value: { relX: 62.71551724137932, relY: 64.00862068965517 },
+  },
+  {
+    time: 4972,
+    name: "pointermove",
+    value: { relX: 62.93103448275862, relY: 64.22413793103449 },
+  },
+  {
+    time: 4980,
+    name: "pointermove",
+    value: { relX: 63.146551724137936, relY: 64.4396551724138 },
+  },
+  {
+    time: 4988,
+    name: "pointermove",
+    value: { relX: 63.577586206896555, relY: 64.65517241379311 },
+  },
+  {
+    time: 4997,
+    name: "pointermove",
+    value: { relX: 63.793103448275865, relY: 64.87068965517241 },
+  },
+  {
+    time: 5002,
+    name: "pointermove",
+    value: { relX: 64.00862068965517, relY: 65.08620689655173 },
+  },
+  {
+    time: 5010,
+    name: "pointermove",
+    value: { relX: 64.22413793103449, relY: 65.30172413793103 },
+  },
+  {
+    time: 5018,
+    name: "pointermove",
+    value: { relX: 64.65517241379311, relY: 65.51724137931035 },
+  },
+  {
+    time: 5026,
+    name: "pointermove",
+    value: { relX: 64.87068965517241, relY: 65.73275862068965 },
+  },
+  {
+    time: 5034,
+    name: "pointermove",
+    value: { relX: 65.08620689655173, relY: 65.94827586206897 },
+  },
+  {
+    time: 5042,
+    name: "pointermove",
+    value: { relX: 65.30172413793103, relY: 66.16379310344827 },
+  },
+  {
+    time: 5050,
+    name: "pointermove",
+    value: { relX: 65.51724137931035, relY: 66.37931034482759 },
+  },
+  {
+    time: 5058,
+    name: "pointermove",
+    value: { relX: 65.73275862068965, relY: 66.59482758620689 },
+  },
+  {
+    time: 5066,
+    name: "pointermove",
+    value: { relX: 66.16379310344827, relY: 66.59482758620689 },
+  },
+  {
+    time: 5075,
+    name: "pointermove",
+    value: { relX: 66.37931034482759, relY: 67.02586206896551 },
+  },
+  {
+    time: 5082,
+    name: "pointermove",
+    value: { relX: 66.59482758620689, relY: 67.02586206896551 },
+  },
+  {
+    time: 5088,
+    name: "pointermove",
+    value: { relX: 66.8103448275862, relY: 67.24137931034483 },
+  },
+  {
+    time: 5096,
+    name: "pointermove",
+    value: { relX: 67.02586206896551, relY: 67.45689655172413 },
+  },
+  {
+    time: 5104,
+    name: "pointermove",
+    value: { relX: 67.24137931034483, relY: 67.67241379310344 },
+  },
+  {
+    time: 5113,
+    name: "pointermove",
+    value: { relX: 67.45689655172413, relY: 67.88793103448276 },
+  },
+  {
+    time: 5120,
+    name: "pointermove",
+    value: { relX: 67.67241379310344, relY: 68.31896551724138 },
+  },
+  {
+    time: 5128,
+    name: "pointermove",
+    value: { relX: 68.10344827586206, relY: 68.31896551724138 },
+  },
+  {
+    time: 5136,
+    name: "pointermove",
+    value: { relX: 68.31896551724138, relY: 68.75 },
+  },
+  {
+    time: 5145,
+    name: "pointermove",
+    value: { relX: 68.53448275862068, relY: 68.96551724137932 },
+  },
+  {
+    time: 5153,
+    name: "pointermove",
+    value: { relX: 68.75, relY: 69.18103448275862 },
+  },
+  {
+    time: 5160,
+    name: "pointermove",
+    value: { relX: 69.18103448275862, relY: 69.39655172413794 },
+  },
+  {
+    time: 5166,
+    name: "pointermove",
+    value: { relX: 69.39655172413794, relY: 69.82758620689656 },
+  },
+  {
+    time: 5174,
+    name: "pointermove",
+    value: { relX: 69.82758620689656, relY: 70.04310344827587 },
+  },
+  {
+    time: 5182,
+    name: "pointermove",
+    value: { relX: 70.25862068965517, relY: 70.47413793103449 },
+  },
+  {
+    time: 5190,
+    name: "pointermove",
+    value: { relX: 70.6896551724138, relY: 70.6896551724138 },
+  },
+  {
+    time: 5198,
+    name: "pointermove",
+    value: { relX: 71.12068965517241, relY: 71.12068965517241 },
+  },
+  {
+    time: 5206,
+    name: "pointermove",
+    value: { relX: 71.55172413793103, relY: 71.33620689655173 },
+  },
+  {
+    time: 5214,
+    name: "pointermove",
+    value: { relX: 71.76724137931035, relY: 71.55172413793103 },
+  },
+  {
+    time: 5222,
+    name: "pointermove",
+    value: { relX: 71.98275862068965, relY: 71.98275862068965 },
+  },
+  {
+    time: 5230,
+    name: "pointermove",
+    value: { relX: 72.41379310344827, relY: 72.19827586206897 },
+  },
+  {
+    time: 5238,
+    name: "pointermove",
+    value: { relX: 72.84482758620689, relY: 72.41379310344827 },
+  },
+  {
+    time: 5246,
+    name: "pointermove",
+    value: { relX: 73.0603448275862, relY: 72.62931034482759 },
+  },
+  {
+    time: 5252,
+    name: "pointermove",
+    value: { relX: 73.49137931034483, relY: 73.0603448275862 },
+  },
+  {
+    time: 5260,
+    name: "pointermove",
+    value: { relX: 73.70689655172413, relY: 73.27586206896551 },
+  },
+  {
+    time: 5268,
+    name: "pointermove",
+    value: { relX: 73.92241379310344, relY: 73.70689655172413 },
+  },
+  {
+    time: 5276,
+    name: "pointermove",
+    value: { relX: 74.13793103448276, relY: 73.92241379310344 },
+  },
+  {
+    time: 5284,
+    name: "pointermove",
+    value: { relX: 74.56896551724138, relY: 74.35344827586206 },
+  },
+  {
+    time: 5293,
+    name: "pointermove",
+    value: { relX: 74.56896551724138, relY: 74.56896551724138 },
+  },
+  { time: 5300, name: "pointermove", value: { relX: 75, relY: 75 } },
+  {
+    time: 5308,
+    name: "pointermove",
+    value: { relX: 75.21551724137932, relY: 75.43103448275862 },
+  },
+  {
+    time: 5316,
+    name: "pointermove",
+    value: { relX: 75.43103448275862, relY: 75.64655172413794 },
+  },
+  {
+    time: 5325,
+    name: "pointermove",
+    value: { relX: 75.64655172413794, relY: 76.07758620689656 },
+  },
+  {
+    time: 5330,
+    name: "pointermove",
+    value: { relX: 75.86206896551724, relY: 76.29310344827587 },
+  },
+  {
+    time: 5338,
+    name: "pointermove",
+    value: { relX: 76.07758620689656, relY: 76.72413793103449 },
+  },
+  {
+    time: 5346,
+    name: "pointermove",
+    value: { relX: 76.29310344827587, relY: 76.9396551724138 },
+  },
+  {
+    time: 5354,
+    name: "pointermove",
+    value: { relX: 76.72413793103449, relY: 77.37068965517241 },
+  },
+  {
+    time: 5362,
+    name: "pointermove",
+    value: { relX: 76.9396551724138, relY: 77.58620689655173 },
+  },
+  {
+    time: 5371,
+    name: "pointermove",
+    value: { relX: 77.15517241379311, relY: 77.80172413793103 },
+  },
+  {
+    time: 5378,
+    name: "pointermove",
+    value: { relX: 77.37068965517241, relY: 78.01724137931035 },
+  },
+  {
+    time: 5386,
+    name: "pointermove",
+    value: { relX: 77.58620689655173, relY: 78.23275862068965 },
+  },
+  {
+    time: 5394,
+    name: "pointermove",
+    value: { relX: 77.80172413793103, relY: 78.44827586206897 },
+  },
+  {
+    time: 5403,
+    name: "pointermove",
+    value: { relX: 78.01724137931035, relY: 78.66379310344827 },
+  },
+  {
+    time: 5410,
+    name: "pointermove",
+    value: { relX: 78.23275862068965, relY: 78.87931034482759 },
+  },
+  {
+    time: 5416,
+    name: "pointermove",
+    value: { relX: 78.23275862068965, relY: 79.09482758620689 },
+  },
+  {
+    time: 5424,
+    name: "pointermove",
+    value: { relX: 78.66379310344827, relY: 79.09482758620689 },
+  },
+  {
+    time: 5432,
+    name: "pointermove",
+    value: { relX: 78.66379310344827, relY: 79.52586206896551 },
+  },
+  {
+    time: 5441,
+    name: "pointermove",
+    value: { relX: 78.87931034482759, relY: 79.52586206896551 },
+  },
+  {
+    time: 5448,
+    name: "pointermove",
+    value: { relX: 79.09482758620689, relY: 79.74137931034483 },
+  },
+  {
+    time: 5456,
+    name: "pointermove",
+    value: { relX: 79.3103448275862, relY: 79.95689655172413 },
+  },
+  {
+    time: 5464,
+    name: "pointermove",
+    value: { relX: 79.52586206896551, relY: 80.17241379310344 },
+  },
+  {
+    time: 5473,
+    name: "pointermove",
+    value: { relX: 79.95689655172413, relY: 80.60344827586206 },
+  },
+  {
+    time: 5480,
+    name: "pointermove",
+    value: { relX: 80.17241379310344, relY: 80.60344827586206 },
+  },
+  {
+    time: 5488,
+    name: "pointermove",
+    value: { relX: 80.38793103448276, relY: 80.81896551724138 },
+  },
+  {
+    time: 5494,
+    name: "pointermove",
+    value: { relX: 80.60344827586206, relY: 81.03448275862068 },
+  },
+  {
+    time: 5502,
+    name: "pointermove",
+    value: { relX: 81.03448275862068, relY: 81.25 },
+  },
+  {
+    time: 5510,
+    name: "pointermove",
+    value: { relX: 81.25, relY: 81.46551724137932 },
+  },
+  {
+    time: 5518,
+    name: "pointermove",
+    value: { relX: 81.46551724137932, relY: 81.68103448275862 },
+  },
+  {
+    time: 5526,
+    name: "pointermove",
+    value: { relX: 81.68103448275862, relY: 81.68103448275862 },
+  },
+  {
+    time: 5534,
+    name: "pointermove",
+    value: { relX: 81.89655172413794, relY: 81.89655172413794 },
+  },
+  {
+    time: 5542,
+    name: "pointermove",
+    value: { relX: 82.11206896551724, relY: 82.11206896551724 },
+  },
+  {
+    time: 5550,
+    name: "pointermove",
+    value: { relX: 82.32758620689656, relY: 82.32758620689656 },
+  },
+  {
+    time: 5558,
+    name: "pointermove",
+    value: { relX: 82.75862068965517, relY: 82.32758620689656 },
+  },
+  {
+    time: 5566,
+    name: "pointermove",
+    value: { relX: 82.97413793103449, relY: 82.54310344827587 },
+  },
+  {
+    time: 5572,
+    name: "pointermove",
+    value: { relX: 83.1896551724138, relY: 82.75862068965517 },
+  },
+  {
+    time: 5580,
+    name: "pointermove",
+    value: { relX: 83.40517241379311, relY: 82.97413793103449 },
+  },
+  {
+    time: 5589,
+    name: "pointermove",
+    value: { relX: 83.62068965517241, relY: 83.1896551724138 },
+  },
+  {
+    time: 5597,
+    name: "pointermove",
+    value: { relX: 83.83620689655173, relY: 83.40517241379311 },
+  },
+  {
+    time: 5604,
+    name: "pointermove",
+    value: { relX: 84.05172413793103, relY: 83.62068965517241 },
+  },
+  {
+    time: 5612,
+    name: "pointermove",
+    value: { relX: 84.26724137931035, relY: 83.62068965517241 },
+  },
+  {
+    time: 5621,
+    name: "pointermove",
+    value: { relX: 84.48275862068965, relY: 83.83620689655173 },
+  },
+  {
+    time: 5629,
+    name: "pointermove",
+    value: { relX: 84.69827586206897, relY: 84.05172413793103 },
+  },
+  {
+    time: 5636,
+    name: "pointermove",
+    value: { relX: 84.91379310344827, relY: 84.05172413793103 },
+  },
+  {
+    time: 5644,
+    name: "pointermove",
+    value: { relX: 85.12931034482759, relY: 84.26724137931035 },
+  },
+  {
+    time: 5653,
+    name: "pointermove",
+    value: { relX: 85.34482758620689, relY: 84.26724137931035 },
+  },
+  {
+    time: 5658,
+    name: "pointermove",
+    value: { relX: 85.5603448275862, relY: 84.48275862068965 },
+  },
+  {
+    time: 5666,
+    name: "pointermove",
+    value: { relX: 85.77586206896551, relY: 84.48275862068965 },
+  },
+  {
+    time: 5674,
+    name: "pointermove",
+    value: { relX: 85.77586206896551, relY: 84.69827586206897 },
+  },
+  {
+    time: 5682,
+    name: "pointermove",
+    value: { relX: 85.99137931034483, relY: 84.69827586206897 },
+  },
+  {
+    time: 5690,
+    name: "pointermove",
+    value: { relX: 86.20689655172413, relY: 84.69827586206897 },
+  },
+  {
+    time: 5698,
+    name: "pointermove",
+    value: { relX: 86.20689655172413, relY: 84.91379310344827 },
+  },
+  {
+    time: 5706,
+    name: "pointermove",
+    value: { relX: 86.42241379310344, relY: 84.91379310344827 },
+  },
+  {
+    time: 5714,
+    name: "pointermove",
+    value: { relX: 86.63793103448276, relY: 84.91379310344827 },
+  },
+  {
+    time: 5722,
+    name: "pointermove",
+    value: { relX: 86.63793103448276, relY: 85.12931034482759 },
+  },
+  {
+    time: 5728,
+    name: "pointermove",
+    value: { relX: 86.85344827586206, relY: 85.12931034482759 },
+  },
+  {
+    time: 5736,
+    name: "pointermove",
+    value: { relX: 87.06896551724138, relY: 85.12931034482759 },
+  },
+  {
+    time: 5744,
+    name: "pointermove",
+    value: { relX: 87.06896551724138, relY: 85.34482758620689 },
+  },
+  {
+    time: 5752,
+    name: "pointermove",
+    value: { relX: 87.28448275862068, relY: 85.34482758620689 },
+  },
+  {
+    time: 5760,
+    name: "pointermove",
+    value: { relX: 87.5, relY: 85.5603448275862 },
+  },
+  {
+    time: 5769,
+    name: "pointermove",
+    value: { relX: 87.71551724137932, relY: 85.77586206896551 },
+  },
+  {
+    time: 5777,
+    name: "pointermove",
+    value: { relX: 87.71551724137932, relY: 85.77586206896551 },
+  },
+  {
+    time: 5784,
+    name: "pointermove",
+    value: { relX: 87.93103448275862, relY: 85.99137931034483 },
+  },
+  {
+    time: 5793,
+    name: "pointermove",
+    value: { relX: 88.14655172413794, relY: 85.99137931034483 },
+  },
+  {
+    time: 5801,
+    name: "pointermove",
+    value: { relX: 88.36206896551724, relY: 86.20689655172413 },
+  },
+  {
+    time: 5809,
+    name: "pointermove",
+    value: { relX: 88.57758620689656, relY: 86.20689655172413 },
+  },
+  {
+    time: 5814,
+    name: "pointermove",
+    value: { relX: 88.57758620689656, relY: 86.42241379310344 },
+  },
+  {
+    time: 5822,
+    name: "pointermove",
+    value: { relX: 88.79310344827587, relY: 86.42241379310344 },
+  },
+  {
+    time: 5830,
+    name: "pointermove",
+    value: { relX: 89.00862068965517, relY: 86.63793103448276 },
+  },
+  {
+    time: 5838,
+    name: "pointermove",
+    value: { relX: 89.22413793103449, relY: 86.85344827586206 },
+  },
+  {
+    time: 5846,
+    name: "pointermove",
+    value: { relX: 89.4396551724138, relY: 86.85344827586206 },
+  },
+  {
+    time: 5854,
+    name: "pointermove",
+    value: { relX: 89.65517241379311, relY: 87.06896551724138 },
+  },
+  {
+    time: 5862,
+    name: "pointermove",
+    value: { relX: 89.87068965517241, relY: 87.28448275862068 },
+  },
+  {
+    time: 5871,
+    name: "pointermove",
+    value: { relX: 90.08620689655173, relY: 87.28448275862068 },
+  },
+  {
+    time: 5878,
+    name: "pointermove",
+    value: { relX: 90.08620689655173, relY: 87.5 },
+  },
+  {
+    time: 5884,
+    name: "pointermove",
+    value: { relX: 90.51724137931035, relY: 87.71551724137932 },
+  },
+  {
+    time: 5892,
+    name: "pointermove",
+    value: { relX: 90.73275862068965, relY: 87.71551724137932 },
+  },
+  {
+    time: 5900,
+    name: "pointermove",
+    value: { relX: 90.94827586206897, relY: 87.93103448275862 },
+  },
+  {
+    time: 5908,
+    name: "pointermove",
+    value: { relX: 91.16379310344827, relY: 88.14655172413794 },
+  },
+  {
+    time: 5970,
+    name: "pointermove",
+    value: { relX: 91.37931034482759, relY: 88.36206896551724 },
+  },
+  {
+    time: 5978,
+    name: "pointermove",
+    value: { relX: 91.8103448275862, relY: 88.79310344827587 },
+  },
+  {
+    time: 5986,
+    name: "pointermove",
+    value: { relX: 92.02586206896551, relY: 89.22413793103449 },
+  },
+  {
+    time: 5994,
+    name: "pointermove",
+    value: { relX: 92.45689655172413, relY: 89.65517241379311 },
+  },
+  {
+    time: 6002,
+    name: "pointermove",
+    value: { relX: 92.67241379310344, relY: 90.08620689655173 },
+  },
+  {
+    time: 6010,
+    name: "pointermove",
+    value: { relX: 92.88793103448276, relY: 90.51724137931035 },
+  },
+  {
+    time: 6018,
+    name: "pointermove",
+    value: { relX: 93.31896551724138, relY: 90.73275862068965 },
+  },
+  {
+    time: 6026,
+    name: "pointermove",
+    value: { relX: 93.53448275862068, relY: 91.37931034482759 },
+  },
+  {
+    time: 6033,
+    name: "pointermove",
+    value: { relX: 93.75, relY: 91.59482758620689 },
+  },
+  {
+    time: 6040,
+    name: "pointermove",
+    value: { relX: 94.18103448275862, relY: 92.24137931034483 },
+  },
+  {
+    time: 6048,
+    name: "pointermove",
+    value: { relX: 94.39655172413794, relY: 92.45689655172413 },
+  },
+  {
+    time: 6056,
+    name: "pointermove",
+    value: { relX: 94.61206896551724, relY: 92.88793103448276 },
+  },
+  {
+    time: 6064,
+    name: "pointermove",
+    value: { relX: 94.82758620689656, relY: 93.10344827586206 },
+  },
+  {
+    time: 6072,
+    name: "pointermove",
+    value: { relX: 95.04310344827587, relY: 93.31896551724138 },
+  },
+  {
+    time: 6080,
+    name: "pointermove",
+    value: { relX: 95.25862068965517, relY: 93.75 },
+  },
+  {
+    time: 6088,
+    name: "pointermove",
+    value: { relX: 95.25862068965517, relY: 93.96551724137932 },
+  },
+  {
+    time: 6097,
+    name: "pointermove",
+    value: { relX: 95.47413793103449, relY: 94.18103448275862 },
+  },
+  {
+    time: 6104,
+    name: "pointermove",
+    value: { relX: 95.6896551724138, relY: 94.39655172413794 },
+  },
+  {
+    time: 6110,
+    name: "pointermove",
+    value: { relX: 95.6896551724138, relY: 94.39655172413794 },
+  },
+  {
+    time: 6118,
+    name: "pointermove",
+    value: { relX: 95.90517241379311, relY: 94.61206896551724 },
+  },
+  {
+    time: 6126,
+    name: "pointermove",
+    value: { relX: 95.90517241379311, relY: 94.61206896551724 },
+  },
+  {
+    time: 6134,
+    name: "pointermove",
+    value: { relX: 96.12068965517241, relY: 94.82758620689656 },
+  },
+  {
+    time: 6142,
+    name: "pointermove",
+    value: { relX: 96.12068965517241, relY: 95.04310344827587 },
+  },
+  {
+    time: 6150,
+    name: "pointermove",
+    value: { relX: 96.33620689655173, relY: 95.25862068965517 },
+  },
+  {
+    time: 6158,
+    name: "pointermove",
+    value: { relX: 96.55172413793103, relY: 95.47413793103449 },
+  },
+  {
+    time: 6166,
+    name: "pointermove",
+    value: { relX: 96.55172413793103, relY: 95.6896551724138 },
+  },
+  {
+    time: 6174,
+    name: "pointermove",
+    value: { relX: 96.76724137931035, relY: 95.90517241379311 },
+  },
+  {
+    time: 6182,
+    name: "pointermove",
+    value: { relX: 96.98275862068965, relY: 96.12068965517241 },
+  },
+  {
+    time: 6188,
+    name: "pointermove",
+    value: { relX: 96.98275862068965, relY: 96.55172413793103 },
+  },
+  {
+    time: 6196,
+    name: "pointermove",
+    value: { relX: 97.19827586206897, relY: 96.76724137931035 },
+  },
+  {
+    time: 6204,
+    name: "pointermove",
+    value: { relX: 97.41379310344827, relY: 96.98275862068965 },
+  },
+  {
+    time: 6213,
+    name: "pointermove",
+    value: { relX: 97.41379310344827, relY: 97.19827586206897 },
+  },
+  {
+    time: 6220,
+    name: "pointermove",
+    value: { relX: 97.41379310344827, relY: 97.19827586206897 },
+  },
+  {
+    time: 6228,
+    name: "pointermove",
+    value: { relX: 97.62931034482759, relY: 97.41379310344827 },
+  },
+  {
+    time: 6236,
+    name: "pointermove",
+    value: { relX: 97.62931034482759, relY: 97.41379310344827 },
+  },
+  {
+    time: 6244,
+    name: "pointermove",
+    value: { relX: 97.62931034482759, relY: 97.62931034482759 },
+  },
+  {
+    time: 6252,
+    name: "pointermove",
+    value: { relX: 97.84482758620689, relY: 97.62931034482759 },
+  },
+  {
+    time: 6260,
+    name: "pointermove",
+    value: { relX: 97.84482758620689, relY: 97.62931034482759 },
+  },
+  {
+    time: 6266,
+    name: "pointermove",
+    value: { relX: 97.84482758620689, relY: 97.84482758620689 },
+  },
+  {
+    time: 6306,
+    name: "pointermove",
+    value: { relX: 97.84482758620689, relY: 97.84482758620689 },
+  },
+  {
+    time: 6344,
+    name: "pointermove",
+    value: { relX: 97.84482758620689, relY: 97.84482758620689 },
+  },
+  {
+    time: 8479,
+    name: "pointerup",
+    value: { relX: 97.84482758620689, relY: 97.84482758620689 },
+  },
+]);
