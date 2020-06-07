@@ -96,14 +96,4 @@
 		
 
 	</Chain>
-	<!--
-	<Chain output="#carrier">
-		<OscillatorNode type="sine">
-			<frequency follow="relX" map="0,95,130,440"></frequency>
-		</OscillatorNode>
-		<GainNode gain="1000"></Gain>
-	</Chain>
-	
-	<StereoPannerNode><pan></pan></StereoPannerNode>
-	-->
 </Audio>
